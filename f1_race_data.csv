@@ -1,0 +1,440 @@
+Year,RaceName,DriverNumber,DriverCode,DriverName,Team,GridPosition,Position,Status,Points,FinishPosition,DidFinish,QualifyingPosition
+2025,Australia,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Australia,1,VER,Max Verstappen,Red Bull Racing,3.0,2.0,Finished,18.0,2.0,True,3.0
+2025,Australia,63,RUS,George Russell,Mercedes,4.0,3.0,Finished,15.0,3.0,True,4.0
+2025,Australia,12,ANT,Andrea Kimi Antonelli,Mercedes,16.0,4.0,Finished,12.0,4.0,True,16.0
+2025,Australia,23,ALB,Alexander Albon,Williams,6.0,5.0,Finished,10.0,5.0,True,6.0
+2025,Australia,18,STR,Lance Stroll,Aston Martin,13.0,6.0,Finished,8.0,6.0,True,13.0
+2025,Australia,27,HUL,Nico Hulkenberg,Kick Sauber,17.0,7.0,Finished,6.0,7.0,True,17.0
+2025,Australia,16,LEC,Charles Leclerc,Ferrari,7.0,8.0,Finished,4.0,8.0,True,7.0
+2025,Australia,81,PIA,Oscar Piastri,McLaren,2.0,9.0,Finished,2.0,9.0,True,2.0
+2025,Australia,44,HAM,Lewis Hamilton,Ferrari,8.0,10.0,Finished,1.0,10.0,True,8.0
+2025,Australia,10,GAS,Pierre Gasly,Alpine,9.0,11.0,Finished,0.0,11.0,True,9.0
+2025,Australia,22,TSU,Yuki Tsunoda,Racing Bulls,5.0,12.0,Finished,0.0,12.0,True,5.0
+2025,Australia,31,OCO,Esteban Ocon,Haas F1 Team,19.0,13.0,Finished,0.0,13.0,True,19.0
+2025,Australia,87,BEA,Oliver Bearman,Haas F1 Team,20.0,14.0,Finished,0.0,14.0,True,20.0
+2025,Australia,30,LAW,Liam Lawson,Red Bull Racing,18.0,15.0,Retired,0.0,15.0,False,18.0
+2025,Australia,5,BOR,Gabriel Bortoleto,Kick Sauber,15.0,16.0,Retired,0.0,16.0,False,15.0
+2025,Australia,14,ALO,Fernando Alonso,Aston Martin,12.0,17.0,Retired,0.0,17.0,False,12.0
+2025,Australia,55,SAI,Carlos Sainz,Williams,10.0,18.0,Retired,0.0,18.0,False,10.0
+2025,Australia,7,DOO,Jack Doohan,Alpine,14.0,19.0,Retired,0.0,19.0,False,14.0
+2025,Australia,6,HAD,Isack Hadjar,Racing Bulls,11.0,20.0,Retired,0.0,20.0,False,11.0
+2025,China,81,PIA,Oscar Piastri,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,China,4,NOR,Lando Norris,McLaren,3.0,2.0,Finished,18.0,2.0,True,3.0
+2025,China,63,RUS,George Russell,Mercedes,2.0,3.0,Finished,15.0,3.0,True,2.0
+2025,China,1,VER,Max Verstappen,Red Bull Racing,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,China,31,OCO,Esteban Ocon,Haas F1 Team,11.0,5.0,Finished,10.0,5.0,True,11.0
+2025,China,12,ANT,Kimi Antonelli,Mercedes,8.0,6.0,Finished,8.0,6.0,True,8.0
+2025,China,23,ALB,Alexander Albon,Williams,10.0,7.0,Finished,6.0,7.0,True,10.0
+2025,China,87,BEA,Oliver Bearman,Haas F1 Team,17.0,8.0,Finished,4.0,8.0,True,17.0
+2025,China,18,STR,Lance Stroll,Aston Martin,14.0,9.0,Finished,2.0,9.0,True,14.0
+2025,China,55,SAI,Carlos Sainz,Williams,15.0,10.0,Finished,1.0,10.0,True,15.0
+2025,China,6,HAD,Isack Hadjar,Racing Bulls,7.0,11.0,Finished,0.0,11.0,True,7.0
+2025,China,30,LAW,Liam Lawson,Red Bull Racing,20.0,12.0,Finished,0.0,12.0,True,20.0
+2025,China,7,DOO,Jack Doohan,Alpine,18.0,13.0,Finished,0.0,13.0,True,18.0
+2025,China,5,BOR,Gabriel Bortoleto,Kick Sauber,19.0,14.0,Lapped,0.0,14.0,False,19.0
+2025,China,27,HUL,Nico Hulkenberg,Kick Sauber,12.0,15.0,Lapped,0.0,15.0,False,12.0
+2025,China,22,TSU,Yuki Tsunoda,Racing Bulls,9.0,16.0,Lapped,0.0,16.0,False,9.0
+2025,China,14,ALO,Fernando Alonso,Aston Martin,13.0,17.0,Retired,0.0,17.0,False,13.0
+2025,China,16,LEC,Charles Leclerc,Ferrari,6.0,18.0,Disqualified,0.0,18.0,False,6.0
+2025,China,44,HAM,Lewis Hamilton,Ferrari,5.0,19.0,Disqualified,0.0,19.0,False,5.0
+2025,China,10,GAS,Pierre Gasly,Alpine,16.0,20.0,Disqualified,0.0,20.0,False,16.0
+2025,Japan,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Japan,4,NOR,Lando Norris,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Japan,81,PIA,Oscar Piastri,McLaren,3.0,3.0,Finished,15.0,3.0,True,3.0
+2025,Japan,16,LEC,Charles Leclerc,Ferrari,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Japan,63,RUS,George Russell,Mercedes,5.0,5.0,Finished,10.0,5.0,True,5.0
+2025,Japan,12,ANT,Kimi Antonelli,Mercedes,6.0,6.0,Finished,8.0,6.0,True,6.0
+2025,Japan,44,HAM,Lewis Hamilton,Ferrari,8.0,7.0,Finished,6.0,7.0,True,8.0
+2025,Japan,6,HAD,Isack Hadjar,Racing Bulls,7.0,8.0,Finished,4.0,8.0,True,7.0
+2025,Japan,23,ALB,Alexander Albon,Williams,9.0,9.0,Finished,2.0,9.0,True,9.0
+2025,Japan,87,BEA,Oliver Bearman,Haas F1 Team,10.0,10.0,Finished,1.0,10.0,True,10.0
+2025,Japan,14,ALO,Fernando Alonso,Aston Martin,12.0,11.0,Finished,0.0,11.0,True,13.0
+2025,Japan,22,TSU,Yuki Tsunoda,Red Bull Racing,14.0,12.0,Finished,0.0,12.0,True,15.0
+2025,Japan,10,GAS,Pierre Gasly,Alpine,11.0,13.0,Finished,0.0,13.0,True,11.0
+2025,Japan,55,SAI,Carlos Sainz,Williams,15.0,14.0,Finished,0.0,14.0,True,12.0
+2025,Japan,7,DOO,Jack Doohan,Alpine,19.0,15.0,Finished,0.0,15.0,True,19.0
+2025,Japan,27,HUL,Nico Hulkenberg,Kick Sauber,16.0,16.0,Finished,0.0,16.0,True,16.0
+2025,Japan,30,LAW,Liam Lawson,Racing Bulls,13.0,17.0,Finished,0.0,17.0,True,14.0
+2025,Japan,31,OCO,Esteban Ocon,Haas F1 Team,18.0,18.0,Finished,0.0,18.0,True,18.0
+2025,Japan,5,BOR,Gabriel Bortoleto,Kick Sauber,17.0,19.0,Finished,0.0,19.0,True,17.0
+2025,Japan,18,STR,Lance Stroll,Aston Martin,20.0,20.0,Lapped,0.0,20.0,False,20.0
+2025,Bahrain,81,PIA,Oscar Piastri,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Bahrain,63,RUS,George Russell,Mercedes,3.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Bahrain,4,NOR,Lando Norris,McLaren,6.0,3.0,Finished,15.0,3.0,True,6.0
+2025,Bahrain,16,LEC,Charles Leclerc,Ferrari,2.0,4.0,Finished,12.0,4.0,True,3.0
+2025,Bahrain,44,HAM,Lewis Hamilton,Ferrari,9.0,5.0,Finished,10.0,5.0,True,9.0
+2025,Bahrain,1,VER,Max Verstappen,Red Bull Racing,7.0,6.0,Finished,8.0,6.0,True,7.0
+2025,Bahrain,10,GAS,Pierre Gasly,Alpine,4.0,7.0,Finished,6.0,7.0,True,5.0
+2025,Bahrain,31,OCO,Esteban Ocon,Haas F1 Team,14.0,8.0,Finished,4.0,8.0,True,14.0
+2025,Bahrain,22,TSU,Yuki Tsunoda,Red Bull Racing,10.0,9.0,Finished,2.0,9.0,True,10.0
+2025,Bahrain,87,BEA,Oliver Bearman,Haas F1 Team,20.0,10.0,Finished,1.0,10.0,True,20.0
+2025,Bahrain,12,ANT,Kimi Antonelli,Mercedes,5.0,11.0,Finished,0.0,11.0,True,4.0
+2025,Bahrain,23,ALB,Alexander Albon,Williams,15.0,12.0,Finished,0.0,12.0,True,15.0
+2025,Bahrain,6,HAD,Isack Hadjar,Racing Bulls,12.0,13.0,Finished,0.0,13.0,True,12.0
+2025,Bahrain,7,DOO,Jack Doohan,Alpine,11.0,14.0,Finished,0.0,14.0,True,11.0
+2025,Bahrain,14,ALO,Fernando Alonso,Aston Martin,13.0,15.0,Finished,0.0,15.0,True,13.0
+2025,Bahrain,30,LAW,Liam Lawson,Racing Bulls,17.0,16.0,Finished,0.0,16.0,True,17.0
+2025,Bahrain,18,STR,Lance Stroll,Aston Martin,19.0,17.0,Finished,0.0,17.0,True,19.0
+2025,Bahrain,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,18.0,Finished,0.0,18.0,True,18.0
+2025,Bahrain,55,SAI,Carlos Sainz,Williams,8.0,19.0,Retired,0.0,19.0,False,8.0
+2025,Bahrain,27,HUL,Nico Hulkenberg,Kick Sauber,16.0,20.0,Disqualified,0.0,20.0,False,16.0
+2025,Saudi Arabia,81,PIA,Oscar Piastri,McLaren,2.0,1.0,Finished,25.0,1.0,True,2.0
+2025,Saudi Arabia,1,VER,Max Verstappen,Red Bull Racing,1.0,2.0,Finished,18.0,2.0,True,1.0
+2025,Saudi Arabia,16,LEC,Charles Leclerc,Ferrari,4.0,3.0,Finished,15.0,3.0,True,4.0
+2025,Saudi Arabia,4,NOR,Lando Norris,McLaren,10.0,4.0,Finished,12.0,4.0,True,10.0
+2025,Saudi Arabia,63,RUS,George Russell,Mercedes,3.0,5.0,Finished,10.0,5.0,True,3.0
+2025,Saudi Arabia,12,ANT,Kimi Antonelli,Mercedes,5.0,6.0,Finished,8.0,6.0,True,5.0
+2025,Saudi Arabia,44,HAM,Lewis Hamilton,Ferrari,7.0,7.0,Finished,6.0,7.0,True,7.0
+2025,Saudi Arabia,55,SAI,Carlos Sainz,Williams,6.0,8.0,Finished,4.0,8.0,True,6.0
+2025,Saudi Arabia,23,ALB,Alexander Albon,Williams,11.0,9.0,Finished,2.0,9.0,True,11.0
+2025,Saudi Arabia,6,HAD,Isack Hadjar,Racing Bulls,14.0,10.0,Finished,1.0,10.0,True,14.0
+2025,Saudi Arabia,14,ALO,Fernando Alonso,Aston Martin,13.0,11.0,Finished,0.0,11.0,True,13.0
+2025,Saudi Arabia,30,LAW,Liam Lawson,Racing Bulls,12.0,12.0,Finished,0.0,12.0,True,12.0
+2025,Saudi Arabia,87,BEA,Oliver Bearman,Haas F1 Team,15.0,13.0,Finished,0.0,13.0,True,15.0
+2025,Saudi Arabia,31,OCO,Esteban Ocon,Haas F1 Team,19.0,14.0,Finished,0.0,14.0,True,19.0
+2025,Saudi Arabia,27,HUL,Nico Hulkenberg,Kick Sauber,18.0,15.0,Lapped,0.0,15.0,False,18.0
+2025,Saudi Arabia,18,STR,Lance Stroll,Aston Martin,16.0,16.0,Lapped,0.0,16.0,False,16.0
+2025,Saudi Arabia,7,DOO,Jack Doohan,Alpine,17.0,17.0,Lapped,0.0,17.0,False,17.0
+2025,Saudi Arabia,5,BOR,Gabriel Bortoleto,Kick Sauber,20.0,18.0,Lapped,0.0,18.0,False,20.0
+2025,Saudi Arabia,22,TSU,Yuki Tsunoda,Red Bull Racing,8.0,19.0,Retired,0.0,19.0,False,8.0
+2025,Saudi Arabia,10,GAS,Pierre Gasly,Alpine,9.0,20.0,Retired,0.0,20.0,False,9.0
+2025,Miami,81,PIA,Oscar Piastri,McLaren,4.0,1.0,Finished,25.0,1.0,True,4.0
+2025,Miami,4,NOR,Lando Norris,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Miami,63,RUS,George Russell,Mercedes,5.0,3.0,Finished,15.0,3.0,True,5.0
+2025,Miami,1,VER,Max Verstappen,Red Bull Racing,1.0,4.0,Finished,12.0,4.0,True,1.0
+2025,Miami,23,ALB,Alexander Albon,Williams,7.0,5.0,Finished,10.0,5.0,True,7.0
+2025,Miami,12,ANT,Kimi Antonelli,Mercedes,3.0,6.0,Finished,8.0,6.0,True,3.0
+2025,Miami,16,LEC,Charles Leclerc,Ferrari,8.0,7.0,Finished,6.0,7.0,True,8.0
+2025,Miami,44,HAM,Lewis Hamilton,Ferrari,12.0,8.0,Finished,4.0,8.0,True,12.0
+2025,Miami,55,SAI,Carlos Sainz,Williams,6.0,9.0,Finished,2.0,9.0,True,6.0
+2025,Miami,22,TSU,Yuki Tsunoda,Red Bull Racing,10.0,10.0,Finished,1.0,10.0,True,10.0
+2025,Miami,6,HAD,Isack Hadjar,Racing Bulls,11.0,11.0,Finished,0.0,11.0,True,11.0
+2025,Miami,31,OCO,Esteban Ocon,Haas F1 Team,9.0,12.0,Finished,0.0,12.0,True,9.0
+2025,Miami,10,GAS,Pierre Gasly,Alpine,20.0,13.0,Finished,0.0,13.0,True,18.0
+2025,Miami,27,HUL,Nico Hulkenberg,Kick Sauber,16.0,14.0,Lapped,0.0,14.0,False,16.0
+2025,Miami,14,ALO,Fernando Alonso,Aston Martin,17.0,15.0,Lapped,0.0,15.0,False,17.0
+2025,Miami,18,STR,Lance Stroll,Aston Martin,18.0,16.0,Lapped,0.0,16.0,False,19.0
+2025,Miami,30,LAW,Liam Lawson,Racing Bulls,15.0,17.0,Retired,0.0,17.0,False,15.0
+2025,Miami,5,BOR,Gabriel Bortoleto,Kick Sauber,13.0,18.0,Retired,0.0,18.0,False,13.0
+2025,Miami,87,BEA,Oliver Bearman,Haas F1 Team,19.0,19.0,Retired,0.0,19.0,False,20.0
+2025,Miami,7,DOO,Jack Doohan,Alpine,14.0,20.0,Retired,0.0,20.0,False,14.0
+2025,Emilia Romagna,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,Finished,25.0,1.0,True,2.0
+2025,Emilia Romagna,4,NOR,Lando Norris,McLaren,4.0,2.0,Finished,18.0,2.0,True,4.0
+2025,Emilia Romagna,81,PIA,Oscar Piastri,McLaren,1.0,3.0,Finished,15.0,3.0,True,1.0
+2025,Emilia Romagna,44,HAM,Lewis Hamilton,Ferrari,12.0,4.0,Finished,12.0,4.0,True,12.0
+2025,Emilia Romagna,23,ALB,Alexander Albon,Williams,7.0,5.0,Finished,10.0,5.0,True,7.0
+2025,Emilia Romagna,16,LEC,Charles Leclerc,Ferrari,11.0,6.0,Finished,8.0,6.0,True,11.0
+2025,Emilia Romagna,63,RUS,George Russell,Mercedes,3.0,7.0,Finished,6.0,7.0,True,3.0
+2025,Emilia Romagna,55,SAI,Carlos Sainz,Williams,6.0,8.0,Finished,4.0,8.0,True,6.0
+2025,Emilia Romagna,6,HAD,Isack Hadjar,Racing Bulls,9.0,9.0,Finished,2.0,9.0,True,9.0
+2025,Emilia Romagna,22,TSU,Yuki Tsunoda,Red Bull Racing,20.0,10.0,Finished,1.0,10.0,True,20.0
+2025,Emilia Romagna,14,ALO,Fernando Alonso,Aston Martin,5.0,11.0,Finished,0.0,11.0,True,5.0
+2025,Emilia Romagna,27,HUL,Nico Hulkenberg,Kick Sauber,17.0,12.0,Finished,0.0,12.0,True,17.0
+2025,Emilia Romagna,10,GAS,Pierre Gasly,Alpine,10.0,13.0,Finished,0.0,13.0,True,10.0
+2025,Emilia Romagna,30,LAW,Liam Lawson,Racing Bulls,15.0,14.0,Finished,0.0,14.0,True,16.0
+2025,Emilia Romagna,18,STR,Lance Stroll,Aston Martin,8.0,15.0,Finished,0.0,15.0,True,8.0
+2025,Emilia Romagna,43,COL,Franco Colapinto,Alpine,16.0,16.0,Finished,0.0,16.0,True,15.0
+2025,Emilia Romagna,87,BEA,Oliver Bearman,Haas F1 Team,19.0,17.0,Finished,0.0,17.0,True,19.0
+2025,Emilia Romagna,5,BOR,Gabriel Bortoleto,Kick Sauber,14.0,18.0,Finished,0.0,18.0,True,14.0
+2025,Emilia Romagna,12,ANT,Kimi Antonelli,Mercedes,13.0,19.0,Retired,0.0,19.0,False,13.0
+2025,Emilia Romagna,31,OCO,Esteban Ocon,Haas F1 Team,18.0,20.0,Retired,0.0,20.0,False,18.0
+2025,Monaco,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Monaco,16,LEC,Charles Leclerc,Ferrari,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Monaco,81,PIA,Oscar Piastri,McLaren,3.0,3.0,Finished,15.0,3.0,True,3.0
+2025,Monaco,1,VER,Max Verstappen,Red Bull Racing,4.0,4.0,Finished,12.0,4.0,True,5.0
+2025,Monaco,44,HAM,Lewis Hamilton,Ferrari,7.0,5.0,Finished,10.0,5.0,True,4.0
+2025,Monaco,6,HAD,Isack Hadjar,Racing Bulls,5.0,6.0,Lapped,8.0,6.0,False,6.0
+2025,Monaco,31,OCO,Esteban Ocon,Haas F1 Team,8.0,7.0,Lapped,6.0,7.0,False,8.0
+2025,Monaco,30,LAW,Liam Lawson,Racing Bulls,9.0,8.0,Lapped,4.0,8.0,False,9.0
+2025,Monaco,23,ALB,Alexander Albon,Williams,10.0,9.0,Lapped,2.0,9.0,False,10.0
+2025,Monaco,55,SAI,Carlos Sainz,Williams,11.0,10.0,Lapped,1.0,10.0,False,11.0
+2025,Monaco,63,RUS,George Russell,Mercedes,14.0,11.0,Lapped,0.0,11.0,False,14.0
+2025,Monaco,87,BEA,Oliver Bearman,Haas F1 Team,20.0,12.0,Lapped,0.0,12.0,False,17.0
+2025,Monaco,43,COL,Franco Colapinto,Alpine,18.0,13.0,Lapped,0.0,13.0,False,20.0
+2025,Monaco,5,BOR,Gabriel Bortoleto,Kick Sauber,16.0,14.0,Lapped,0.0,14.0,False,16.0
+2025,Monaco,18,STR,Lance Stroll,Aston Martin,19.0,15.0,Lapped,0.0,15.0,False,19.0
+2025,Monaco,27,HUL,Nico Hulkenberg,Kick Sauber,13.0,16.0,Lapped,0.0,16.0,False,13.0
+2025,Monaco,22,TSU,Yuki Tsunoda,Red Bull Racing,12.0,17.0,Lapped,0.0,17.0,False,12.0
+2025,Monaco,12,ANT,Kimi Antonelli,Mercedes,15.0,18.0,Lapped,0.0,18.0,False,15.0
+2025,Monaco,14,ALO,Fernando Alonso,Aston Martin,6.0,19.0,Retired,0.0,19.0,False,7.0
+2025,Monaco,10,GAS,Pierre Gasly,Alpine,17.0,20.0,Retired,0.0,20.0,False,18.0
+2025,Spain,81,PIA,Oscar Piastri,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Spain,4,NOR,Lando Norris,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Spain,16,LEC,Charles Leclerc,Ferrari,7.0,3.0,Finished,15.0,3.0,True,7.0
+2025,Spain,63,RUS,George Russell,Mercedes,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Spain,27,HUL,Nico Hulkenberg,Kick Sauber,15.0,5.0,Finished,10.0,5.0,True,16.0
+2025,Spain,44,HAM,Lewis Hamilton,Ferrari,5.0,6.0,Finished,8.0,6.0,True,5.0
+2025,Spain,6,HAD,Isack Hadjar,Racing Bulls,9.0,7.0,Finished,6.0,7.0,True,9.0
+2025,Spain,10,GAS,Pierre Gasly,Alpine,8.0,8.0,Finished,4.0,8.0,True,8.0
+2025,Spain,14,ALO,Fernando Alonso,Aston Martin,10.0,9.0,Finished,2.0,9.0,True,10.0
+2025,Spain,1,VER,Max Verstappen,Red Bull Racing,3.0,10.0,Finished,1.0,10.0,True,3.0
+2025,Spain,30,LAW,Liam Lawson,Racing Bulls,13.0,11.0,Finished,0.0,11.0,True,13.0
+2025,Spain,5,BOR,Gabriel Bortoleto,Kick Sauber,12.0,12.0,Finished,0.0,12.0,True,12.0
+2025,Spain,22,TSU,Yuki Tsunoda,Red Bull Racing,19.0,13.0,Finished,0.0,13.0,True,20.0
+2025,Spain,55,SAI,Carlos Sainz,Williams,17.0,14.0,Finished,0.0,14.0,True,18.0
+2025,Spain,43,COL,Franco Colapinto,Alpine,18.0,15.0,Finished,0.0,15.0,True,19.0
+2025,Spain,31,OCO,Esteban Ocon,Haas F1 Team,16.0,16.0,Finished,0.0,16.0,True,17.0
+2025,Spain,87,BEA,Oliver Bearman,Haas F1 Team,14.0,17.0,Finished,0.0,17.0,True,15.0
+2025,Spain,12,ANT,Kimi Antonelli,Mercedes,6.0,18.0,Retired,0.0,18.0,False,6.0
+2025,Spain,23,ALB,Alexander Albon,Williams,11.0,19.0,Retired,0.0,19.0,False,11.0
+2025,Canada,63,RUS,George Russell,Mercedes,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Canada,1,VER,Max Verstappen,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Canada,12,ANT,Kimi Antonelli,Mercedes,4.0,3.0,Finished,15.0,3.0,True,4.0
+2025,Canada,81,PIA,Oscar Piastri,McLaren,3.0,4.0,Finished,12.0,4.0,True,3.0
+2025,Canada,16,LEC,Charles Leclerc,Ferrari,8.0,5.0,Finished,10.0,5.0,True,8.0
+2025,Canada,44,HAM,Lewis Hamilton,Ferrari,5.0,6.0,Finished,8.0,6.0,True,5.0
+2025,Canada,14,ALO,Fernando Alonso,Aston Martin,6.0,7.0,Finished,6.0,7.0,True,6.0
+2025,Canada,27,HUL,Nico Hulkenberg,Kick Sauber,11.0,8.0,Finished,4.0,8.0,True,13.0
+2025,Canada,31,OCO,Esteban Ocon,Haas F1 Team,14.0,9.0,Lapped,2.0,9.0,False,15.0
+2025,Canada,55,SAI,Carlos Sainz,Williams,16.0,10.0,Lapped,1.0,10.0,False,17.0
+2025,Canada,87,BEA,Oliver Bearman,Haas F1 Team,13.0,11.0,Lapped,0.0,11.0,False,14.0
+2025,Canada,22,TSU,Yuki Tsunoda,Red Bull Racing,18.0,12.0,Lapped,0.0,12.0,False,11.0
+2025,Canada,43,COL,Franco Colapinto,Alpine,10.0,13.0,Lapped,0.0,13.0,False,12.0
+2025,Canada,5,BOR,Gabriel Bortoleto,Kick Sauber,15.0,14.0,Lapped,0.0,14.0,False,16.0
+2025,Canada,10,GAS,Pierre Gasly,Alpine,20.0,15.0,Lapped,0.0,15.0,False,20.0
+2025,Canada,6,HAD,Isack Hadjar,Racing Bulls,12.0,16.0,Lapped,0.0,16.0,False,9.0
+2025,Canada,18,STR,Lance Stroll,Aston Martin,17.0,17.0,Lapped,0.0,17.0,False,18.0
+2025,Canada,4,NOR,Lando Norris,McLaren,7.0,18.0,Retired,0.0,18.0,False,7.0
+2025,Canada,30,LAW,Liam Lawson,Racing Bulls,19.0,19.0,Retired,0.0,19.0,False,19.0
+2025,Canada,23,ALB,Alexander Albon,Williams,9.0,20.0,Retired,0.0,20.0,False,10.0
+2025,Austria,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Austria,81,PIA,Oscar Piastri,McLaren,3.0,2.0,Finished,18.0,2.0,True,3.0
+2025,Austria,16,LEC,Charles Leclerc,Ferrari,2.0,3.0,Finished,15.0,3.0,True,2.0
+2025,Austria,44,HAM,Lewis Hamilton,Ferrari,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Austria,63,RUS,George Russell,Mercedes,5.0,5.0,Finished,10.0,5.0,True,5.0
+2025,Austria,30,LAW,Liam Lawson,Racing Bulls,6.0,6.0,Finished,8.0,6.0,True,6.0
+2025,Austria,14,ALO,Fernando Alonso,Aston Martin,11.0,7.0,Lapped,6.0,7.0,False,11.0
+2025,Austria,5,BOR,Gabriel Bortoleto,Kick Sauber,8.0,8.0,Lapped,4.0,8.0,False,8.0
+2025,Austria,27,HUL,Nico Hulkenberg,Kick Sauber,20.0,9.0,Lapped,2.0,9.0,False,20.0
+2025,Austria,31,OCO,Esteban Ocon,Haas F1 Team,17.0,10.0,Lapped,1.0,10.0,False,17.0
+2025,Austria,87,BEA,Oliver Bearman,Haas F1 Team,15.0,11.0,Lapped,0.0,11.0,False,15.0
+2025,Austria,6,HAD,Isack Hadjar,Racing Bulls,13.0,12.0,Lapped,0.0,12.0,False,13.0
+2025,Austria,10,GAS,Pierre Gasly,Alpine,10.0,13.0,Lapped,0.0,13.0,False,10.0
+2025,Austria,18,STR,Lance Stroll,Aston Martin,16.0,14.0,Lapped,0.0,14.0,False,16.0
+2025,Austria,43,COL,Franco Colapinto,Alpine,14.0,15.0,Lapped,0.0,15.0,False,14.0
+2025,Austria,22,TSU,Yuki Tsunoda,Red Bull Racing,18.0,16.0,Lapped,0.0,16.0,False,18.0
+2025,Austria,23,ALB,Alexander Albon,Williams,12.0,17.0,Retired,0.0,17.0,False,12.0
+2025,Austria,1,VER,Max Verstappen,Red Bull Racing,7.0,18.0,Retired,0.0,18.0,False,7.0
+2025,Austria,12,ANT,Kimi Antonelli,Mercedes,9.0,19.0,Retired,0.0,19.0,False,9.0
+2025,Austria,55,SAI,Carlos Sainz,Williams,19.0,20.0,Did not start,0.0,20.0,False,19.0
+2025,Great Britain,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Great Britain,81,PIA,Oscar Piastri,McLaren,3.0,2.0,Finished,18.0,2.0,True,3.0
+2025,Great Britain,16,LEC,Charles Leclerc,Ferrari,2.0,3.0,Finished,15.0,3.0,True,2.0
+2025,Great Britain,44,HAM,Lewis Hamilton,Ferrari,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Great Britain,63,RUS,George Russell,Mercedes,5.0,5.0,Finished,10.0,5.0,True,5.0
+2025,Great Britain,30,LAW,Liam Lawson,Racing Bulls,6.0,6.0,Finished,8.0,6.0,True,6.0
+2025,Great Britain,14,ALO,Fernando Alonso,Aston Martin,11.0,7.0,Lapped,6.0,7.0,False,11.0
+2025,Great Britain,5,BOR,Gabriel Bortoleto,Kick Sauber,8.0,8.0,Lapped,4.0,8.0,False,8.0
+2025,Great Britain,27,HUL,Nico Hulkenberg,Kick Sauber,20.0,9.0,Lapped,2.0,9.0,False,20.0
+2025,Great Britain,31,OCO,Esteban Ocon,Haas F1 Team,17.0,10.0,Lapped,1.0,10.0,False,17.0
+2025,Great Britain,87,BEA,Oliver Bearman,Haas F1 Team,15.0,11.0,Lapped,0.0,11.0,False,15.0
+2025,Great Britain,6,HAD,Isack Hadjar,Racing Bulls,13.0,12.0,Lapped,0.0,12.0,False,13.0
+2025,Great Britain,10,GAS,Pierre Gasly,Alpine,10.0,13.0,Lapped,0.0,13.0,False,10.0
+2025,Great Britain,18,STR,Lance Stroll,Aston Martin,16.0,14.0,Lapped,0.0,14.0,False,16.0
+2025,Great Britain,43,COL,Franco Colapinto,Alpine,14.0,15.0,Lapped,0.0,15.0,False,14.0
+2025,Great Britain,22,TSU,Yuki Tsunoda,Red Bull Racing,18.0,16.0,Lapped,0.0,16.0,False,18.0
+2025,Great Britain,23,ALB,Alexander Albon,Williams,12.0,17.0,Retired,0.0,17.0,False,12.0
+2025,Great Britain,1,VER,Max Verstappen,Red Bull Racing,7.0,18.0,Retired,0.0,18.0,False,7.0
+2025,Great Britain,12,ANT,Kimi Antonelli,Mercedes,9.0,19.0,Retired,0.0,19.0,False,9.0
+2025,Great Britain,55,SAI,Carlos Sainz,Williams,19.0,20.0,Did not start,0.0,20.0,False,19.0
+2025,Belgium,81,PIA,Oscar Piastri,McLaren,2.0,1.0,Finished,25.0,1.0,True,2.0
+2025,Belgium,4,NOR,Lando Norris,McLaren,1.0,2.0,Finished,18.0,2.0,True,1.0
+2025,Belgium,16,LEC,Charles Leclerc,Ferrari,3.0,3.0,Finished,15.0,3.0,True,3.0
+2025,Belgium,1,VER,Max Verstappen,Red Bull Racing,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Belgium,63,RUS,George Russell,Mercedes,6.0,5.0,Finished,10.0,5.0,True,6.0
+2025,Belgium,23,ALB,Alexander Albon,Williams,5.0,6.0,Finished,8.0,6.0,True,5.0
+2025,Belgium,44,HAM,Lewis Hamilton,Ferrari,18.0,7.0,Finished,6.0,7.0,True,16.0
+2025,Belgium,30,LAW,Liam Lawson,Racing Bulls,9.0,8.0,Finished,4.0,8.0,True,9.0
+2025,Belgium,5,BOR,Gabriel Bortoleto,Kick Sauber,10.0,9.0,Finished,2.0,9.0,True,10.0
+2025,Belgium,10,GAS,Pierre Gasly,Alpine,13.0,10.0,Finished,1.0,10.0,True,13.0
+2025,Belgium,87,BEA,Oliver Bearman,Haas F1 Team,12.0,11.0,Finished,0.0,11.0,True,12.0
+2025,Belgium,27,HUL,Nico Hulkenberg,Kick Sauber,14.0,12.0,Finished,0.0,12.0,True,14.0
+2025,Belgium,22,TSU,Yuki Tsunoda,Red Bull Racing,7.0,13.0,Finished,0.0,13.0,True,7.0
+2025,Belgium,18,STR,Lance Stroll,Aston Martin,16.0,14.0,Finished,0.0,14.0,True,20.0
+2025,Belgium,31,OCO,Esteban Ocon,Haas F1 Team,11.0,15.0,Finished,0.0,15.0,True,11.0
+2025,Belgium,12,ANT,Kimi Antonelli,Mercedes,19.0,16.0,Finished,0.0,16.0,True,18.0
+2025,Belgium,14,ALO,Fernando Alonso,Aston Martin,20.0,17.0,Finished,0.0,17.0,True,19.0
+2025,Belgium,55,SAI,Carlos Sainz,Williams,17.0,18.0,Finished,0.0,18.0,True,15.0
+2025,Belgium,43,COL,Franco Colapinto,Alpine,15.0,19.0,Finished,0.0,19.0,True,17.0
+2025,Belgium,6,HAD,Isack Hadjar,Racing Bulls,8.0,20.0,Lapped,0.0,20.0,False,8.0
+2025,Hungary,4,NOR,Lando Norris,McLaren,3.0,1.0,Finished,25.0,1.0,True,3.0
+2025,Hungary,81,PIA,Oscar Piastri,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Hungary,63,RUS,George Russell,Mercedes,4.0,3.0,Finished,15.0,3.0,True,4.0
+2025,Hungary,16,LEC,Charles Leclerc,Ferrari,1.0,4.0,Finished,12.0,4.0,True,1.0
+2025,Hungary,14,ALO,Fernando Alonso,Aston Martin,5.0,5.0,Finished,10.0,5.0,True,5.0
+2025,Hungary,5,BOR,Gabriel Bortoleto,Kick Sauber,7.0,6.0,Finished,8.0,6.0,True,7.0
+2025,Hungary,18,STR,Lance Stroll,Aston Martin,6.0,7.0,Finished,6.0,7.0,True,6.0
+2025,Hungary,30,LAW,Liam Lawson,Racing Bulls,9.0,8.0,Finished,4.0,8.0,True,9.0
+2025,Hungary,1,VER,Max Verstappen,Red Bull Racing,8.0,9.0,Finished,2.0,9.0,True,8.0
+2025,Hungary,12,ANT,Kimi Antonelli,Mercedes,15.0,10.0,Lapped,1.0,10.0,False,15.0
+2025,Hungary,6,HAD,Isack Hadjar,Racing Bulls,10.0,11.0,Lapped,0.0,11.0,False,10.0
+2025,Hungary,44,HAM,Lewis Hamilton,Ferrari,12.0,12.0,Lapped,0.0,12.0,False,12.0
+2025,Hungary,27,HUL,Nico Hulkenberg,Kick Sauber,18.0,13.0,Lapped,0.0,13.0,False,19.0
+2025,Hungary,55,SAI,Carlos Sainz,Williams,13.0,14.0,Lapped,0.0,14.0,False,13.0
+2025,Hungary,23,ALB,Alexander Albon,Williams,19.0,15.0,Lapped,0.0,15.0,False,20.0
+2025,Hungary,31,OCO,Esteban Ocon,Haas F1 Team,17.0,16.0,Lapped,0.0,16.0,False,18.0
+2025,Hungary,22,TSU,Yuki Tsunoda,Red Bull Racing,20.0,17.0,Lapped,0.0,17.0,False,16.0
+2025,Hungary,43,COL,Franco Colapinto,Alpine,14.0,18.0,Lapped,0.0,18.0,False,14.0
+2025,Hungary,10,GAS,Pierre Gasly,Alpine,16.0,19.0,Lapped,0.0,19.0,False,17.0
+2025,Hungary,87,BEA,Oliver Bearman,Haas F1 Team,11.0,20.0,Retired,0.0,20.0,False,11.0
+2025,Netherlands,81,PIA,Oscar Piastri,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Netherlands,1,VER,Max Verstappen,Red Bull Racing,3.0,2.0,Finished,18.0,2.0,True,3.0
+2025,Netherlands,6,HAD,Isack Hadjar,Racing Bulls,4.0,3.0,Finished,15.0,3.0,True,4.0
+2025,Netherlands,63,RUS,George Russell,Mercedes,5.0,4.0,Finished,12.0,4.0,True,5.0
+2025,Netherlands,23,ALB,Alexander Albon,Williams,15.0,5.0,Finished,10.0,5.0,True,15.0
+2025,Netherlands,87,BEA,Oliver Bearman,Haas F1 Team,20.0,6.0,Finished,8.0,6.0,True,19.0
+2025,Netherlands,18,STR,Lance Stroll,Aston Martin,19.0,7.0,Finished,6.0,7.0,True,20.0
+2025,Netherlands,14,ALO,Fernando Alonso,Aston Martin,10.0,8.0,Finished,4.0,8.0,True,10.0
+2025,Netherlands,22,TSU,Yuki Tsunoda,Red Bull Racing,12.0,9.0,Finished,2.0,9.0,True,12.0
+2025,Netherlands,31,OCO,Esteban Ocon,Haas F1 Team,18.0,10.0,Finished,1.0,10.0,True,18.0
+2025,Netherlands,43,COL,Franco Colapinto,Alpine,16.0,11.0,Finished,0.0,11.0,True,16.0
+2025,Netherlands,30,LAW,Liam Lawson,Racing Bulls,8.0,12.0,Finished,0.0,12.0,True,8.0
+2025,Netherlands,55,SAI,Carlos Sainz,Williams,9.0,13.0,Finished,0.0,13.0,True,9.0
+2025,Netherlands,27,HUL,Nico Hulkenberg,Kick Sauber,17.0,14.0,Finished,0.0,14.0,True,17.0
+2025,Netherlands,5,BOR,Gabriel Bortoleto,Kick Sauber,13.0,15.0,Finished,0.0,15.0,True,13.0
+2025,Netherlands,12,ANT,Kimi Antonelli,Mercedes,11.0,16.0,Finished,0.0,16.0,True,11.0
+2025,Netherlands,10,GAS,Pierre Gasly,Alpine,14.0,17.0,Finished,0.0,17.0,True,14.0
+2025,Netherlands,4,NOR,Lando Norris,McLaren,2.0,18.0,Retired,0.0,18.0,False,2.0
+2025,Netherlands,16,LEC,Charles Leclerc,Ferrari,6.0,19.0,Retired,0.0,19.0,False,6.0
+2025,Netherlands,44,HAM,Lewis Hamilton,Ferrari,7.0,20.0,Retired,0.0,20.0,False,7.0
+2025,Italy,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Italy,4,NOR,Lando Norris,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Italy,81,PIA,Oscar Piastri,McLaren,3.0,3.0,Finished,15.0,3.0,True,3.0
+2025,Italy,16,LEC,Charles Leclerc,Ferrari,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Italy,63,RUS,George Russell,Mercedes,5.0,5.0,Finished,10.0,5.0,True,6.0
+2025,Italy,44,HAM,Lewis Hamilton,Ferrari,10.0,6.0,Finished,8.0,6.0,True,5.0
+2025,Italy,23,ALB,Alexander Albon,Williams,14.0,7.0,Finished,6.0,7.0,True,14.0
+2025,Italy,5,BOR,Gabriel Bortoleto,Kick Sauber,7.0,8.0,Finished,4.0,8.0,True,8.0
+2025,Italy,12,ANT,Kimi Antonelli,Mercedes,6.0,9.0,Finished,2.0,9.0,True,7.0
+2025,Italy,6,HAD,Isack Hadjar,Racing Bulls,19.0,10.0,Finished,1.0,10.0,True,16.0
+2025,Italy,55,SAI,Carlos Sainz,Williams,13.0,11.0,Finished,0.0,11.0,True,13.0
+2025,Italy,87,BEA,Oliver Bearman,Haas F1 Team,11.0,12.0,Finished,0.0,12.0,True,11.0
+2025,Italy,22,TSU,Yuki Tsunoda,Red Bull Racing,9.0,13.0,Finished,0.0,13.0,True,10.0
+2025,Italy,30,LAW,Liam Lawson,Racing Bulls,18.0,14.0,Finished,0.0,14.0,True,20.0
+2025,Italy,31,OCO,Esteban Ocon,Haas F1 Team,15.0,15.0,Lapped,0.0,15.0,False,15.0
+2025,Italy,10,GAS,Pierre Gasly,Alpine,20.0,16.0,Lapped,0.0,16.0,False,19.0
+2025,Italy,43,COL,Franco Colapinto,Alpine,17.0,17.0,Lapped,0.0,17.0,False,18.0
+2025,Italy,18,STR,Lance Stroll,Aston Martin,16.0,18.0,Lapped,0.0,18.0,False,17.0
+2025,Italy,14,ALO,Fernando Alonso,Aston Martin,8.0,19.0,Retired,0.0,19.0,False,9.0
+2025,Italy,27,HUL,Nico Hulkenberg,Kick Sauber,12.0,20.0,Did not start,0.0,20.0,False,12.0
+2025,Azerbaijan,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Azerbaijan,63,RUS,George Russell,Mercedes,5.0,2.0,Finished,18.0,2.0,True,5.0
+2025,Azerbaijan,55,SAI,Carlos Sainz,Williams,2.0,3.0,Finished,15.0,3.0,True,2.0
+2025,Azerbaijan,12,ANT,Kimi Antonelli,Mercedes,4.0,4.0,Finished,12.0,4.0,True,4.0
+2025,Azerbaijan,30,LAW,Liam Lawson,Racing Bulls,3.0,5.0,Finished,10.0,5.0,True,3.0
+2025,Azerbaijan,22,TSU,Yuki Tsunoda,Red Bull Racing,6.0,6.0,Finished,8.0,6.0,True,6.0
+2025,Azerbaijan,4,NOR,Lando Norris,McLaren,7.0,7.0,Finished,6.0,7.0,True,7.0
+2025,Azerbaijan,44,HAM,Lewis Hamilton,Ferrari,12.0,8.0,Finished,4.0,8.0,True,12.0
+2025,Azerbaijan,16,LEC,Charles Leclerc,Ferrari,10.0,9.0,Finished,2.0,9.0,True,10.0
+2025,Azerbaijan,6,HAD,Isack Hadjar,Racing Bulls,8.0,10.0,Finished,1.0,10.0,True,8.0
+2025,Azerbaijan,5,BOR,Gabriel Bortoleto,Kick Sauber,13.0,11.0,Finished,0.0,11.0,True,13.0
+2025,Azerbaijan,87,BEA,Oliver Bearman,Haas F1 Team,15.0,12.0,Finished,0.0,12.0,True,15.0
+2025,Azerbaijan,23,ALB,Alexander Albon,Williams,19.0,13.0,Finished,0.0,13.0,True,19.0
+2025,Azerbaijan,31,OCO,Esteban Ocon,Haas F1 Team,20.0,14.0,Finished,0.0,14.0,True,20.0
+2025,Azerbaijan,14,ALO,Fernando Alonso,Aston Martin,11.0,15.0,Finished,0.0,15.0,True,11.0
+2025,Azerbaijan,27,HUL,Nico Hulkenberg,Kick Sauber,17.0,16.0,Finished,0.0,16.0,True,17.0
+2025,Azerbaijan,18,STR,Lance Stroll,Aston Martin,14.0,17.0,Finished,0.0,17.0,True,14.0
+2025,Azerbaijan,10,GAS,Pierre Gasly,Alpine,18.0,18.0,Lapped,0.0,18.0,False,18.0
+2025,Azerbaijan,43,COL,Franco Colapinto,Alpine,16.0,19.0,Lapped,0.0,19.0,False,16.0
+2025,Azerbaijan,81,PIA,Oscar Piastri,McLaren,9.0,20.0,Retired,0.0,20.0,False,9.0
+2025,Singapore,63,RUS,George Russell,Mercedes,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Singapore,1,VER,Max Verstappen,Red Bull Racing,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Singapore,4,NOR,Lando Norris,McLaren,5.0,3.0,Finished,15.0,3.0,True,5.0
+2025,Singapore,81,PIA,Oscar Piastri,McLaren,3.0,4.0,Finished,12.0,4.0,True,3.0
+2025,Singapore,12,ANT,Kimi Antonelli,Mercedes,4.0,5.0,Finished,10.0,5.0,True,4.0
+2025,Singapore,16,LEC,Charles Leclerc,Ferrari,7.0,6.0,Finished,8.0,6.0,True,7.0
+2025,Singapore,14,ALO,Fernando Alonso,Aston Martin,10.0,7.0,Finished,6.0,7.0,True,10.0
+2025,Singapore,44,HAM,Lewis Hamilton,Ferrari,6.0,8.0,Finished,4.0,8.0,True,6.0
+2025,Singapore,87,BEA,Oliver Bearman,Haas F1 Team,9.0,9.0,Finished,2.0,9.0,True,9.0
+2025,Singapore,55,SAI,Carlos Sainz,Williams,18.0,10.0,Lapped,1.0,10.0,False,20.0
+2025,Singapore,6,HAD,Isack Hadjar,Racing Bulls,8.0,11.0,Lapped,0.0,11.0,False,8.0
+2025,Singapore,22,TSU,Yuki Tsunoda,Red Bull Racing,13.0,12.0,Lapped,0.0,12.0,False,13.0
+2025,Singapore,18,STR,Lance Stroll,Aston Martin,15.0,13.0,Lapped,0.0,13.0,False,15.0
+2025,Singapore,23,ALB,Alexander Albon,Williams,20.0,14.0,Lapped,0.0,14.0,False,19.0
+2025,Singapore,30,LAW,Liam Lawson,Racing Bulls,12.0,15.0,Lapped,0.0,15.0,False,12.0
+2025,Singapore,43,COL,Franco Colapinto,Alpine,16.0,16.0,Lapped,0.0,16.0,False,16.0
+2025,Singapore,5,BOR,Gabriel Bortoleto,Kick Sauber,14.0,17.0,Lapped,0.0,17.0,False,14.0
+2025,Singapore,31,OCO,Esteban Ocon,Haas F1 Team,17.0,18.0,Lapped,0.0,18.0,False,17.0
+2025,Singapore,10,GAS,Pierre Gasly,Alpine,19.0,19.0,Lapped,0.0,19.0,False,18.0
+2025,Singapore,27,HUL,Nico Hulkenberg,Kick Sauber,11.0,20.0,Lapped,0.0,20.0,False,11.0
+2025,United States,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,United States,4,NOR,Lando Norris,McLaren,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,United States,16,LEC,Charles Leclerc,Ferrari,3.0,3.0,Finished,15.0,3.0,True,3.0
+2025,United States,44,HAM,Lewis Hamilton,Ferrari,5.0,4.0,Finished,12.0,4.0,True,5.0
+2025,United States,81,PIA,Oscar Piastri,McLaren,6.0,5.0,Finished,10.0,5.0,True,6.0
+2025,United States,63,RUS,George Russell,Mercedes,4.0,6.0,Finished,8.0,6.0,True,4.0
+2025,United States,22,TSU,Yuki Tsunoda,Red Bull Racing,13.0,7.0,Finished,6.0,7.0,True,13.0
+2025,United States,27,HUL,Nico Hulkenberg,Kick Sauber,11.0,8.0,Finished,4.0,8.0,True,11.0
+2025,United States,87,BEA,Oliver Bearman,Haas F1 Team,8.0,9.0,Finished,2.0,9.0,True,8.0
+2025,United States,14,ALO,Fernando Alonso,Aston Martin,10.0,10.0,Finished,1.0,10.0,True,10.0
+2025,United States,30,LAW,Liam Lawson,Racing Bulls,12.0,11.0,Finished,0.0,11.0,True,12.0
+2025,United States,18,STR,Lance Stroll,Aston Martin,19.0,12.0,Finished,0.0,12.0,True,18.0
+2025,United States,12,ANT,Kimi Antonelli,Mercedes,7.0,13.0,Finished,0.0,13.0,True,7.0
+2025,United States,23,ALB,Alexander Albon,Williams,18.0,14.0,Finished,0.0,14.0,True,19.0
+2025,United States,31,OCO,Esteban Ocon,Haas F1 Team,17.0,15.0,Finished,0.0,15.0,True,17.0
+2025,United States,6,HAD,Isack Hadjar,Racing Bulls,20.0,16.0,Finished,0.0,16.0,True,20.0
+2025,United States,43,COL,Franco Colapinto,Alpine,15.0,17.0,Lapped,0.0,17.0,False,15.0
+2025,United States,5,BOR,Gabriel Bortoleto,Kick Sauber,16.0,18.0,Lapped,0.0,18.0,False,16.0
+2025,United States,10,GAS,Pierre Gasly,Alpine,14.0,19.0,Lapped,0.0,19.0,False,14.0
+2025,United States,55,SAI,Carlos Sainz,Williams,9.0,20.0,Retired,0.0,20.0,False,9.0
+2025,Mexico,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,Mexico,16,LEC,Charles Leclerc,Ferrari,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,Mexico,1,VER,Max Verstappen,Red Bull Racing,5.0,3.0,Finished,15.0,3.0,True,5.0
+2025,Mexico,87,BEA,Oliver Bearman,Haas F1 Team,9.0,4.0,Finished,12.0,4.0,True,10.0
+2025,Mexico,81,PIA,Oscar Piastri,McLaren,7.0,5.0,Finished,10.0,5.0,True,8.0
+2025,Mexico,12,ANT,Kimi Antonelli,Mercedes,6.0,6.0,Finished,8.0,6.0,True,6.0
+2025,Mexico,63,RUS,George Russell,Mercedes,4.0,7.0,Finished,6.0,7.0,True,4.0
+2025,Mexico,44,HAM,Lewis Hamilton,Ferrari,3.0,8.0,Finished,4.0,8.0,True,3.0
+2025,Mexico,31,OCO,Esteban Ocon,Haas F1 Team,11.0,9.0,Finished,2.0,9.0,True,12.0
+2025,Mexico,5,BOR,Gabriel Bortoleto,Kick Sauber,16.0,10.0,Finished,1.0,10.0,True,16.0
+2025,Mexico,22,TSU,Yuki Tsunoda,Red Bull Racing,10.0,11.0,Finished,0.0,11.0,True,11.0
+2025,Mexico,23,ALB,Alexander Albon,Williams,17.0,12.0,Lapped,0.0,12.0,False,17.0
+2025,Mexico,6,HAD,Isack Hadjar,Racing Bulls,8.0,13.0,Lapped,0.0,13.0,False,9.0
+2025,Mexico,18,STR,Lance Stroll,Aston Martin,19.0,14.0,Lapped,0.0,14.0,False,19.0
+2025,Mexico,10,GAS,Pierre Gasly,Alpine,18.0,15.0,Lapped,0.0,15.0,False,18.0
+2025,Mexico,43,COL,Franco Colapinto,Alpine,20.0,16.0,Lapped,0.0,16.0,False,20.0
+2025,Mexico,55,SAI,Carlos Sainz,Williams,12.0,17.0,Retired,0.0,17.0,False,7.0
+2025,Mexico,14,ALO,Fernando Alonso,Aston Martin,14.0,18.0,Retired,0.0,18.0,False,14.0
+2025,Mexico,27,HUL,Nico Hulkenberg,Kick Sauber,13.0,19.0,Retired,0.0,19.0,False,13.0
+2025,Mexico,30,LAW,Liam Lawson,Racing Bulls,15.0,20.0,Retired,0.0,20.0,False,15.0
+2025,São Paulo,4,NOR,Lando Norris,McLaren,1.0,1.0,Finished,25.0,1.0,True,1.0
+2025,São Paulo,12,ANT,Kimi Antonelli,Mercedes,2.0,2.0,Finished,18.0,2.0,True,2.0
+2025,São Paulo,1,VER,Max Verstappen,Red Bull Racing,19.0,3.0,Finished,15.0,3.0,True,16.0
+2025,São Paulo,63,RUS,George Russell,Mercedes,6.0,4.0,Finished,12.0,4.0,True,6.0
+2025,São Paulo,81,PIA,Oscar Piastri,McLaren,4.0,5.0,Finished,10.0,5.0,True,4.0
+2025,São Paulo,87,BEA,Oliver Bearman,Haas F1 Team,8.0,6.0,Finished,8.0,6.0,True,8.0
+2025,São Paulo,30,LAW,Liam Lawson,Racing Bulls,7.0,7.0,Finished,6.0,7.0,True,7.0
+2025,São Paulo,6,HAD,Isack Hadjar,Racing Bulls,5.0,8.0,Finished,4.0,8.0,True,5.0
+2025,São Paulo,27,HUL,Nico Hulkenberg,Kick Sauber,10.0,9.0,Finished,2.0,9.0,True,10.0
+2025,São Paulo,10,GAS,Pierre Gasly,Alpine,9.0,10.0,Finished,1.0,10.0,True,9.0
+2025,São Paulo,23,ALB,Alexander Albon,Williams,12.0,11.0,Finished,0.0,11.0,True,12.0
+2025,São Paulo,31,OCO,Esteban Ocon,Haas F1 Team,20.0,12.0,Finished,0.0,12.0,True,17.0
+2025,São Paulo,55,SAI,Carlos Sainz,Williams,15.0,13.0,Finished,0.0,13.0,True,15.0
+2025,São Paulo,14,ALO,Fernando Alonso,Aston Martin,11.0,14.0,Finished,0.0,14.0,True,11.0
+2025,São Paulo,43,COL,Franco Colapinto,Alpine,16.0,15.0,Finished,0.0,15.0,True,18.0
+2025,São Paulo,18,STR,Lance Stroll,Aston Martin,14.0,16.0,Finished,0.0,16.0,True,14.0
+2025,São Paulo,22,TSU,Yuki Tsunoda,Red Bull Racing,17.0,17.0,Finished,0.0,17.0,True,19.0
+2025,São Paulo,44,HAM,Lewis Hamilton,Ferrari,13.0,18.0,Retired,0.0,18.0,False,13.0
+2025,São Paulo,16,LEC,Charles Leclerc,Ferrari,3.0,19.0,Retired,0.0,19.0,False,3.0
+2025,São Paulo,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,20.0,Retired,0.0,20.0,False,18.0
+2025,Las Vegas,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,Finished,25.0,1.0,True,2.0
+2025,Las Vegas,63,RUS,George Russell,Mercedes,4.0,2.0,Finished,18.0,2.0,True,4.0
+2025,Las Vegas,12,ANT,Kimi Antonelli,Mercedes,17.0,3.0,Finished,15.0,3.0,True,17.0
+2025,Las Vegas,16,LEC,Charles Leclerc,Ferrari,9.0,4.0,Finished,12.0,4.0,True,9.0
+2025,Las Vegas,55,SAI,Carlos Sainz,Williams,3.0,5.0,Finished,10.0,5.0,True,3.0
+2025,Las Vegas,6,HAD,Isack Hadjar,Racing Bulls,8.0,6.0,Finished,8.0,6.0,True,8.0
+2025,Las Vegas,27,HUL,Nico Hulkenberg,Kick Sauber,11.0,7.0,Finished,6.0,7.0,True,11.0
+2025,Las Vegas,44,HAM,Lewis Hamilton,Ferrari,19.0,8.0,Finished,4.0,8.0,True,20.0
+2025,Las Vegas,31,OCO,Esteban Ocon,Haas F1 Team,13.0,9.0,Finished,2.0,9.0,True,13.0
+2025,Las Vegas,87,BEA,Oliver Bearman,Haas F1 Team,14.0,10.0,Finished,1.0,10.0,True,14.0
+2025,Las Vegas,14,ALO,Fernando Alonso,Aston Martin,7.0,11.0,Finished,0.0,11.0,True,7.0
+2025,Las Vegas,22,TSU,Yuki Tsunoda,Red Bull Racing,20.0,12.0,Finished,0.0,12.0,True,19.0
+2025,Las Vegas,10,GAS,Pierre Gasly,Alpine,10.0,13.0,Finished,0.0,13.0,True,10.0
+2025,Las Vegas,30,LAW,Liam Lawson,Racing Bulls,6.0,14.0,Lapped,0.0,14.0,False,6.0
+2025,Las Vegas,43,COL,Franco Colapinto,Alpine,15.0,15.0,Lapped,0.0,15.0,False,15.0
+2025,Las Vegas,23,ALB,Alexander Albon,Williams,16.0,16.0,Retired,0.0,16.0,False,16.0
+2025,Las Vegas,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,17.0,Retired,0.0,17.0,False,18.0
+2025,Las Vegas,18,STR,Lance Stroll,Aston Martin,12.0,18.0,Retired,0.0,18.0,False,12.0
+2025,Las Vegas,4,NOR,Lando Norris,McLaren,1.0,19.0,Disqualified,0.0,19.0,False,1.0
+2025,Las Vegas,81,PIA,Oscar Piastri,McLaren,5.0,20.0,Disqualified,0.0,20.0,False,5.0

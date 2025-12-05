@@ -1,0 +1,21 @@
+,Driver,QualifyingPosition,GridPosition,Team,TrackType,GlobalRound,TrackTypeIdx,TierCode,DriverIdx,Recent5Avg,CumDNFRate
+0,O PIASTRI,1,1,McLaren,high_speed,1,0,0,19,4.75,0.0909090909090909
+1,L NORRIS,2,2,McLaren,high_speed,1,0,0,14,1.75,0.1363636363636363
+2,M VERSTAPPEN,3,3,Red Bull Racing,high_speed,1,0,1,16,2.0,0.0909090909090909
+3,G RUSSELL,4,4,Mercedes,high_speed,1,0,0,8,4.0,0.0454545454545454
+4,K ANTONELLI,5,5,Mercedes,high_speed,1,0,0,11,5.8,0.2857142857142857
+5,I HADJAR,6,6,Racing Bulls,high_speed,1,0,2,9,10.0,0.409090909090909
+6,C SAINZ,7,7,Williams,high_speed,1,0,1,3,9.0,0.4545454545454546
+7,F ALONSO,8,8,Aston Martin,high_speed,1,0,2,5,10.5,0.3636363636363636
+8,P GASLY,9,9,Alpine,high_speed,1,0,2,20,11.5,0.5454545454545454
+9,C LECLERC,10,10,Ferrari,high_speed,1,0,0,2,3.75,0.1363636363636363
+10,N HULKENBERG,11,11,Kick Sauber,high_speed,1,0,2,17,8.0,0.5
+11,L LAWSON,12,12,Racing Bulls,high_speed,1,0,2,13,9.0,0.3181818181818182
+12,O BEARMAN,13,13,Haas F1 Team,high_speed,1,0,2,18,7.6,0.2727272727272727
+13,G BORTOLETO,14,14,Kick Sauber,high_speed,1,0,2,7,10.0,0.5454545454545454
+14,A ALBON,15,15,Williams,high_speed,1,0,1,0,12.5,0.409090909090909
+15,Y TSUNODA,16,16,Red Bull Racing,high_speed,1,0,1,21,11.75,0.3636363636363636
+16,E OCON,17,17,Haas F1 Team,high_speed,1,0,2,4,11.25,0.3636363636363636
+17,L HAMILTON,18,18,Ferrari,high_speed,1,0,0,12,7.0,0.1818181818181817
+18,L STROLL,19,19,Aston Martin,high_speed,1,0,2,15,14.0,0.5238095238095238
+19,F COLAPINTO,20,20,Alpine,high_speed,1,0,2,6,15.0,0.6875
