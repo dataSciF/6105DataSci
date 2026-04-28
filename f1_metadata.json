@@ -1,0 +1,58 @@
+{
+  "n_races": 22,
+  "n_drivers": 21,
+  "n_constructors": 10,
+  "n_constructor_seasons": 10,
+  "driver_mapping": {
+    "NOR": 0,
+    "VER": 1,
+    "RUS": 2,
+    "ANT": 3,
+    "ALB": 4,
+    "STR": 5,
+    "HUL": 6,
+    "LEC": 7,
+    "PIA": 8,
+    "HAM": 9,
+    "GAS": 10,
+    "TSU": 11,
+    "OCO": 12,
+    "BEA": 13,
+    "LAW": 14,
+    "BOR": 15,
+    "ALO": 16,
+    "SAI": 17,
+    "DOO": 18,
+    "HAD": 19,
+    "COL": 20
+  },
+  "constructor_mapping": {
+    "McLaren": 0,
+    "Red Bull Racing": 1,
+    "Mercedes": 2,
+    "Williams": 3,
+    "Aston Martin": 4,
+    "Kick Sauber": 5,
+    "Ferrari": 6,
+    "Alpine": 7,
+    "Racing Bulls": 8,
+    "Haas F1 Team": 9
+  },
+  "constructor_season_mapping": {
+    "McLaren_2025": 0,
+    "Red Bull Racing_2025": 1,
+    "Mercedes_2025": 2,
+    "Williams_2025": 3,
+    "Aston Martin_2025": 4,
+    "Kick Sauber_2025": 5,
+    "Ferrari_2025": 6,
+    "Alpine_2025": 7,
+    "Racing Bulls_2025": 8,
+    "Haas F1 Team_2025": 9
+  },
+  "track_type_mapping": {
+    "high_speed": 0,
+    "balanced": 1,
+    "technical": 2
+  }
+}

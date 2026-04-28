@@ -1,0 +1,480 @@
+Round,Race,Date,TrackType,Driver,DriverCode,DriverNumber,Team,GridPosition,Position,Points,Status,Time,QualifyingPosition,Season,GlobalRound,TrackTypeIdx,TierCode,DriverIdx,EffectivePosition,Recent5Avg,IsDNF,CumDNFRate
+0,Pre-Season Testing,2025-02-28,balanced,A ALBON,ALB,23,Williams,20.0,14.0,0.0,Lapped,0 days 00:00:25.320000,19.0,2025,1,1,1,13,14.0,8.466666666666667,1,0.375
+1,Australian Grand Prix,2025-03-16,balanced,A ALBON,ALB,23,Williams,6.0,5.0,10.0,Finished,0 days 00:00:12.773000,6.0,2025,2,1,1,13,5.0,14.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,A ALBON,ALB,23,Williams,10.0,7.0,6.0,Finished,0 days 00:00:56.321000,10.0,2025,3,1,1,13,7.0,9.5,0,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,A ALBON,ALB,23,Williams,9.0,9.0,2.0,Finished,0 days 00:00:40.367000,9.0,2025,4,1,1,13,9.0,8.666666666666666,0,0.3333333333333333
+4,Bahrain Grand Prix,2025-04-13,high_speed,A ALBON,ALB,23,Williams,15.0,12.0,0.0,Finished,0 days 00:00:48.839000,15.0,2025,5,0,1,13,12.0,8.75,0,0.25
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,A ALBON,ALB,23,Williams,11.0,9.0,2.0,Finished,0 days 00:01:06.515000,11.0,2025,6,1,1,13,9.0,9.4,0,0.2
+6,Miami Grand Prix,2025-05-04,high_speed,A ALBON,ALB,23,Williams,7.0,5.0,10.0,Finished,0 days 00:00:48.067000,7.0,2025,7,0,1,13,5.0,8.4,0,0.16666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,A ALBON,ALB,23,Williams,7.0,5.0,10.0,Finished,0 days 00:00:17.945000,7.0,2025,8,1,1,13,5.0,8.4,0,0.14285714285714285
+8,Monaco Grand Prix,2025-05-25,technical,A ALBON,ALB,23,Williams,10.0,9.0,2.0,Lapped,0 days 00:00:11.869000,10.0,2025,9,2,1,13,9.0,8.0,1,0.125
+9,Spanish Grand Prix,2025-06-01,balanced,A ALBON,ALB,23,Williams,11.0,19.0,0.0,Retired,,11.0,2025,10,1,1,13,19.0,8.0,1,0.2222222222222222
+10,Canadian Grand Prix,2025-06-15,balanced,A ALBON,ALB,23,Williams,9.0,20.0,0.0,Retired,,10.0,2025,11,1,1,13,20.0,9.4,1,0.3
+11,Austrian Grand Prix,2025-06-29,balanced,A ALBON,ALB,23,Williams,12.0,17.0,0.0,Retired,,12.0,2025,12,1,1,13,17.0,11.6,1,0.36363636363636365
+12,British Grand Prix,2025-07-06,balanced,A ALBON,ALB,23,Williams,13.0,8.0,4.0,Finished,0 days 00:01:04.135000,14.0,2025,13,1,1,13,8.0,14.0,0,0.4166666666666667
+13,Belgian Grand Prix,2025-07-27,balanced,A ALBON,ALB,23,Williams,5.0,6.0,8.0,Finished,0 days 00:00:39.926000,5.0,2025,14,1,1,13,6.0,14.6,0,0.38461538461538464
+14,Hungarian Grand Prix,2025-08-03,balanced,A ALBON,ALB,23,Williams,19.0,15.0,0.0,Lapped,0 days 00:00:38.111000,20.0,2025,15,1,1,13,15.0,14.0,1,0.35714285714285715
+15,Dutch Grand Prix,2025-08-31,balanced,A ALBON,ALB,23,Williams,15.0,5.0,10.0,Finished,0 days 00:00:06.327000,15.0,2025,16,1,1,13,5.0,13.2,0,0.4
+16,Italian Grand Prix,2025-09-07,balanced,A ALBON,ALB,23,Williams,14.0,7.0,6.0,Finished,0 days 00:00:50.537000,14.0,2025,17,1,1,13,7.0,10.2,0,0.375
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,A ALBON,ALB,23,Williams,19.0,13.0,0.0,Finished,0 days 00:01:12.870000,19.0,2025,18,0,1,13,13.0,8.2,0,0.35294117647058826
+18,Singapore Grand Prix,2025-10-05,technical,A ALBON,ALB,23,Williams,20.0,14.0,0.0,Lapped,0 days 00:00:25.320000,19.0,2025,19,2,1,13,14.0,9.2,1,0.3333333333333333
+19,United States Grand Prix,2025-10-19,balanced,A ALBON,ALB,23,Williams,18.0,14.0,0.0,Finished,0 days 00:01:20,19.0,2025,20,1,1,13,14.0,10.8,0,0.3684210526315789
+20,Mexico City Grand Prix,2025-10-26,balanced,A ALBON,ALB,23,Williams,17.0,12.0,0.0,Lapped,0 days 00:00:02.450000,17.0,2025,21,1,1,13,12.0,10.6,1,0.35
+21,São Paulo Grand Prix,2025-11-09,balanced,A ALBON,ALB,23,Williams,12.0,11.0,0.0,Finished,0 days 00:00:54.184000,12.0,2025,22,1,1,13,11.0,12.0,0,0.38095238095238093
+22,Las Vegas Grand Prix,2025-11-22,balanced,A ALBON,ALB,23,Williams,16.0,16.0,0.0,Retired,,16.0,2025,23,1,1,13,16.0,12.8,1,0.36363636363636365
+23,Qatar Grand Prix,2025-11-30,high_speed,A ALBON,ALB,23,Williams,14.0,11.0,0.0,Finished,0 days 00:01:06.931000,15.0,2025,24,0,1,13,11.0,13.4,0,0.391304347826087
+1,Australian Grand Prix,2025-03-16,balanced,A ANTONELLI,ANT,12,Mercedes,16.0,4.0,12.0,Finished,0 days 00:00:10.135000,16.0,2025,2,1,0,20,4.0,4.0,0,0.0
+0,Pre-Season Testing,2025-02-28,balanced,C LECLERC,LEC,16,Ferrari,7.0,6.0,8.0,Finished,0 days 00:00:45.996000,7.0,2025,1,1,1,5,6.0,5.142857142857143,0,0.125
+1,Australian Grand Prix,2025-03-16,balanced,C LECLERC,LEC,16,Ferrari,7.0,8.0,4.0,Finished,0 days 00:00:19.826000,7.0,2025,2,1,1,5,8.0,6.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,C LECLERC,LEC,16,Ferrari,6.0,18.0,0.0,Disqualified,,6.0,2025,3,1,1,5,18.0,7.0,1,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,C LECLERC,LEC,16,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:16.097000,4.0,2025,4,1,1,5,4.0,10.666666666666666,0,0.3333333333333333
+4,Bahrain Grand Prix,2025-04-13,high_speed,C LECLERC,LEC,16,Ferrari,2.0,4.0,12.0,Finished,0 days 00:00:19.679000,3.0,2025,5,0,1,5,4.0,9.0,0,0.25
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,C LECLERC,LEC,16,Ferrari,4.0,3.0,15.0,Finished,0 days 00:00:08.104000,4.0,2025,6,1,1,5,3.0,8.0,0,0.2
+6,Miami Grand Prix,2025-05-04,high_speed,C LECLERC,LEC,16,Ferrari,8.0,7.0,6.0,Finished,0 days 00:00:57.036000,8.0,2025,7,0,1,5,7.0,7.4,0,0.16666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,C LECLERC,LEC,16,Ferrari,11.0,6.0,8.0,Finished,0 days 00:00:20.774000,11.0,2025,8,1,1,5,6.0,7.2,0,0.14285714285714285
+8,Monaco Grand Prix,2025-05-25,technical,C LECLERC,LEC,16,Ferrari,2.0,2.0,18.0,Finished,0 days 00:00:03.131000,2.0,2025,9,2,1,5,2.0,4.8,0,0.125
+9,Spanish Grand Prix,2025-06-01,balanced,C LECLERC,LEC,16,Ferrari,7.0,3.0,15.0,Finished,0 days 00:00:10.455000,7.0,2025,10,1,1,5,3.0,4.4,0,0.1111111111111111
+10,Canadian Grand Prix,2025-06-15,balanced,C LECLERC,LEC,16,Ferrari,8.0,5.0,10.0,Finished,0 days 00:00:03.442000,8.0,2025,11,1,1,5,5.0,4.2,0,0.1
+11,Austrian Grand Prix,2025-06-29,balanced,C LECLERC,LEC,16,Ferrari,2.0,3.0,15.0,Finished,0 days 00:00:19.820000,2.0,2025,12,1,1,5,3.0,4.6,0,0.09090909090909091
+12,British Grand Prix,2025-07-06,balanced,C LECLERC,LEC,16,Ferrari,6.0,14.0,0.0,Finished,0 days 00:01:24.477000,6.0,2025,13,1,1,5,14.0,3.8,0,0.08333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,C LECLERC,LEC,16,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:20.185000,3.0,2025,14,1,1,5,3.0,5.4,0,0.07692307692307693
+14,Hungarian Grand Prix,2025-08-03,balanced,C LECLERC,LEC,16,Ferrari,1.0,4.0,12.0,Finished,0 days 00:00:42.560000,1.0,2025,15,1,1,5,4.0,5.6,0,0.07142857142857142
+15,Dutch Grand Prix,2025-08-31,balanced,C LECLERC,LEC,16,Ferrari,6.0,19.0,0.0,Retired,,6.0,2025,16,1,1,5,19.0,5.8,1,0.06666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,C LECLERC,LEC,16,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:25.624000,4.0,2025,17,1,1,5,4.0,8.6,0,0.125
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,C LECLERC,LEC,16,Ferrari,10.0,9.0,2.0,Finished,0 days 00:00:36.774000,10.0,2025,18,0,1,5,9.0,8.8,0,0.11764705882352941
+18,Singapore Grand Prix,2025-10-05,technical,C LECLERC,LEC,16,Ferrari,7.0,6.0,8.0,Finished,0 days 00:00:45.996000,7.0,2025,19,2,1,5,6.0,7.8,0,0.1111111111111111
+19,United States Grand Prix,2025-10-19,balanced,C LECLERC,LEC,16,Ferrari,3.0,3.0,15.0,Finished,0 days 00:00:15.373000,3.0,2025,20,1,1,5,3.0,8.4,0,0.10526315789473684
+20,Mexico City Grand Prix,2025-10-26,balanced,C LECLERC,LEC,16,Ferrari,2.0,2.0,18.0,Finished,0 days 00:00:30.324000,2.0,2025,21,1,1,5,2.0,8.2,0,0.1
+21,São Paulo Grand Prix,2025-11-09,balanced,C LECLERC,LEC,16,Ferrari,3.0,19.0,0.0,Retired,,3.0,2025,22,1,1,5,19.0,4.8,1,0.09523809523809523
+22,Las Vegas Grand Prix,2025-11-22,balanced,C LECLERC,LEC,16,Ferrari,9.0,4.0,12.0,Finished,0 days 00:00:30.678000,9.0,2025,23,1,1,5,4.0,7.8,0,0.13636363636363635
+23,Qatar Grand Prix,2025-11-30,high_speed,C LECLERC,LEC,16,Ferrari,10.0,8.0,4.0,Finished,0 days 00:00:56.785000,10.0,2025,24,0,1,5,8.0,6.8,0,0.13043478260869565
+0,Pre-Season Testing,2025-02-28,balanced,C SAINZ,SAI,55,Williams,18.0,10.0,1.0,Lapped,0 days 00:00:10.754000,20.0,2025,1,1,1,9,10.0,10.071428571428571,1,0.4166666666666666
+1,Australian Grand Prix,2025-03-16,balanced,C SAINZ,SAI,55,Williams,10.0,18.0,0.0,Retired,,10.0,2025,2,1,1,9,18.0,10.0,1,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,C SAINZ,SAI,55,Williams,15.0,10.0,1.0,Finished,0 days 00:01:16.387000,15.0,2025,3,1,1,9,10.0,14.0,0,1.0
+3,Japanese Grand Prix,2025-04-06,balanced,C SAINZ,SAI,55,Williams,15.0,14.0,0.0,Finished,0 days 00:01:14.129000,12.0,2025,4,1,1,9,14.0,12.666666666666666,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,C SAINZ,SAI,55,Williams,8.0,19.0,0.0,Retired,,8.0,2025,5,0,1,9,19.0,13.0,1,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,C SAINZ,SAI,55,Williams,6.0,8.0,4.0,Finished,0 days 00:01:04.630000,6.0,2025,6,1,1,9,8.0,14.2,0,0.6
+6,Miami Grand Prix,2025-05-04,high_speed,C SAINZ,SAI,55,Williams,6.0,9.0,2.0,Finished,0 days 00:01:00.577000,6.0,2025,7,0,1,9,9.0,13.8,0,0.5
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,C SAINZ,SAI,55,Williams,6.0,8.0,4.0,Finished,0 days 00:00:22.898000,6.0,2025,8,1,1,9,8.0,12.0,0,0.42857142857142855
+8,Monaco Grand Prix,2025-05-25,technical,C SAINZ,SAI,55,Williams,11.0,10.0,1.0,Lapped,0 days 00:00:15.232000,11.0,2025,9,2,1,9,10.0,11.6,1,0.375
+9,Spanish Grand Prix,2025-06-01,balanced,C SAINZ,SAI,55,Williams,17.0,14.0,0.0,Finished,0 days 00:00:29.309000,18.0,2025,10,1,1,9,14.0,10.8,0,0.4444444444444444
+10,Canadian Grand Prix,2025-06-15,balanced,C SAINZ,SAI,55,Williams,16.0,10.0,1.0,Lapped,0 days 00:00:01.886000,17.0,2025,11,1,1,9,10.0,9.8,1,0.4
+11,Austrian Grand Prix,2025-06-29,balanced,C SAINZ,SAI,55,Williams,19.0,20.0,0.0,Did not start,,19.0,2025,12,1,1,9,20.0,10.2,1,0.45454545454545453
+12,British Grand Prix,2025-07-06,balanced,C SAINZ,SAI,55,Williams,9.0,12.0,0.0,Finished,0 days 00:01:16.592000,11.0,2025,13,1,1,9,12.0,12.4,0,0.5
+13,Belgian Grand Prix,2025-07-27,balanced,C SAINZ,SAI,55,Williams,17.0,18.0,0.0,Finished,0 days 00:01:32.024000,15.0,2025,14,1,1,9,18.0,13.2,0,0.46153846153846156
+14,Hungarian Grand Prix,2025-08-03,balanced,C SAINZ,SAI,55,Williams,13.0,14.0,0.0,Lapped,0 days 00:00:33.326000,13.0,2025,15,1,1,9,14.0,14.8,1,0.42857142857142855
+15,Dutch Grand Prix,2025-08-31,balanced,C SAINZ,SAI,55,Williams,9.0,13.0,0.0,Finished,0 days 00:00:17.376000,9.0,2025,16,1,1,9,13.0,14.8,0,0.4666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,C SAINZ,SAI,55,Williams,13.0,11.0,0.0,Finished,0 days 00:01:04.469000,13.0,2025,17,1,1,9,11.0,15.4,0,0.4375
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,C SAINZ,SAI,55,Williams,2.0,3.0,15.0,Finished,0 days 00:00:19.199000,2.0,2025,18,0,1,9,3.0,13.6,0,0.4117647058823529
+18,Singapore Grand Prix,2025-10-05,technical,C SAINZ,SAI,55,Williams,18.0,10.0,1.0,Lapped,0 days 00:00:10.754000,20.0,2025,19,2,1,9,10.0,11.8,1,0.3888888888888889
+19,United States Grand Prix,2025-10-19,balanced,C SAINZ,SAI,55,Williams,9.0,20.0,0.0,Retired,,9.0,2025,20,1,1,9,20.0,10.2,1,0.42105263157894735
+20,Mexico City Grand Prix,2025-10-26,balanced,C SAINZ,SAI,55,Williams,12.0,17.0,0.0,Retired,,7.0,2025,21,1,1,9,17.0,11.4,1,0.45
+21,São Paulo Grand Prix,2025-11-09,balanced,C SAINZ,SAI,55,Williams,15.0,13.0,0.0,Finished,0 days 00:00:55.420000,15.0,2025,22,1,1,9,13.0,12.2,0,0.47619047619047616
+22,Las Vegas Grand Prix,2025-11-22,balanced,C SAINZ,SAI,55,Williams,3.0,5.0,10.0,Finished,0 days 00:00:34.924000,3.0,2025,23,1,1,9,5.0,12.6,0,0.45454545454545453
+23,Qatar Grand Prix,2025-11-30,high_speed,C SAINZ,SAI,55,Williams,7.0,3.0,15.0,Finished,0 days 00:00:22.665000,7.0,2025,24,0,1,9,3.0,13.0,0,0.43478260869565216
+0,Pre-Season Testing,2025-02-28,balanced,E OCON,OCO,31,Haas F1 Team,17.0,18.0,0.0,Lapped,0 days 00:00:47.133000,17.0,2025,1,1,2,17,18.0,12.2,1,0.375
+1,Australian Grand Prix,2025-03-16,balanced,E OCON,OCO,31,Haas F1 Team,19.0,13.0,0.0,Finished,0 days 00:00:33.161000,19.0,2025,2,1,2,17,13.0,18.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,E OCON,OCO,31,Haas F1 Team,11.0,5.0,10.0,Finished,0 days 00:00:49.969000,11.0,2025,3,1,2,17,5.0,15.5,0,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,E OCON,OCO,31,Haas F1 Team,18.0,18.0,0.0,Finished,0 days 00:01:23.438000,18.0,2025,4,1,2,17,18.0,12.0,0,0.3333333333333333
+4,Bahrain Grand Prix,2025-04-13,high_speed,E OCON,OCO,31,Haas F1 Team,14.0,8.0,4.0,Finished,0 days 00:00:44.244000,14.0,2025,5,0,2,17,8.0,13.5,0,0.25
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,E OCON,OCO,31,Haas F1 Team,19.0,14.0,0.0,Finished,0 days 00:01:39.723000,19.0,2025,6,1,2,17,14.0,12.4,0,0.2
+6,Miami Grand Prix,2025-05-04,high_speed,E OCON,OCO,31,Haas F1 Team,9.0,12.0,0.0,Finished,0 days 00:01:22.006000,9.0,2025,7,0,2,17,12.0,11.6,0,0.16666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,E OCON,OCO,31,Haas F1 Team,18.0,20.0,0.0,Retired,,18.0,2025,8,1,2,17,20.0,11.4,1,0.14285714285714285
+8,Monaco Grand Prix,2025-05-25,technical,E OCON,OCO,31,Haas F1 Team,8.0,7.0,6.0,Lapped,0 days 00:01:06.029000,8.0,2025,9,2,2,17,7.0,14.4,1,0.25
+9,Spanish Grand Prix,2025-06-01,balanced,E OCON,OCO,31,Haas F1 Team,16.0,16.0,0.0,Finished,0 days 00:00:32.197000,17.0,2025,10,1,2,17,16.0,12.2,0,0.3333333333333333
+10,Canadian Grand Prix,2025-06-15,balanced,E OCON,OCO,31,Haas F1 Team,14.0,9.0,2.0,Lapped,0 days 00:00:01.473000,15.0,2025,11,1,2,17,9.0,13.8,1,0.3
+11,Austrian Grand Prix,2025-06-29,balanced,E OCON,OCO,31,Haas F1 Team,17.0,10.0,1.0,Lapped,0 days 00:00:09.986000,17.0,2025,12,1,2,17,10.0,12.8,1,0.36363636363636365
+12,British Grand Prix,2025-07-06,balanced,E OCON,OCO,31,Haas F1 Team,14.0,13.0,0.0,Finished,0 days 00:01:17.301000,15.0,2025,13,1,2,17,13.0,12.4,0,0.4166666666666667
+13,Belgian Grand Prix,2025-07-27,balanced,E OCON,OCO,31,Haas F1 Team,11.0,15.0,0.0,Finished,0 days 00:01:26.063000,11.0,2025,14,1,2,17,15.0,11.0,0,0.38461538461538464
+14,Hungarian Grand Prix,2025-08-03,balanced,E OCON,OCO,31,Haas F1 Team,17.0,16.0,0.0,Lapped,0 days 00:00:45.258000,18.0,2025,15,1,2,17,16.0,12.6,1,0.35714285714285715
+15,Dutch Grand Prix,2025-08-31,balanced,E OCON,OCO,31,Haas F1 Team,18.0,10.0,1.0,Finished,0 days 00:00:14.063000,18.0,2025,16,1,2,17,10.0,12.6,0,0.4
+16,Italian Grand Prix,2025-09-07,balanced,E OCON,OCO,31,Haas F1 Team,15.0,15.0,0.0,Lapped,0 days 00:00:02.135000,15.0,2025,17,1,2,17,15.0,12.8,1,0.375
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,E OCON,OCO,31,Haas F1 Team,20.0,14.0,0.0,Finished,0 days 00:01:17.580000,20.0,2025,18,0,2,17,14.0,13.8,0,0.4117647058823529
+18,Singapore Grand Prix,2025-10-05,technical,E OCON,OCO,31,Haas F1 Team,17.0,18.0,0.0,Lapped,0 days 00:00:47.133000,17.0,2025,19,2,2,17,18.0,14.0,1,0.3888888888888889
+19,United States Grand Prix,2025-10-19,balanced,E OCON,OCO,31,Haas F1 Team,17.0,15.0,0.0,Finished,0 days 00:01:23.043000,17.0,2025,20,1,2,17,15.0,14.6,0,0.42105263157894735
+20,Mexico City Grand Prix,2025-10-26,balanced,E OCON,OCO,31,Haas F1 Team,11.0,9.0,2.0,Finished,0 days 00:01:15.464000,12.0,2025,21,1,2,17,9.0,14.4,0,0.4
+21,São Paulo Grand Prix,2025-11-09,balanced,E OCON,OCO,31,Haas F1 Team,20.0,12.0,0.0,Finished,0 days 00:00:54.696000,17.0,2025,22,1,2,17,12.0,14.2,0,0.38095238095238093
+22,Las Vegas Grand Prix,2025-11-22,balanced,E OCON,OCO,31,Haas F1 Team,13.0,9.0,2.0,Finished,0 days 00:01:00.635000,13.0,2025,23,1,2,17,9.0,13.6,0,0.36363636363636365
+23,Qatar Grand Prix,2025-11-30,high_speed,E OCON,OCO,31,Haas F1 Team,16.0,15.0,0.0,Lapped,0 days 00:00:04.253000,17.0,2025,24,0,2,17,15.0,12.6,1,0.34782608695652173
+0,Pre-Season Testing,2025-02-28,balanced,F ALONSO,ALO,14,Aston Martin,10.0,7.0,6.0,Finished,0 days 00:01:20.667000,10.0,2025,1,1,2,6,7.0,10.235294117647058,0,0.2916666666666666
+1,Australian Grand Prix,2025-03-16,balanced,F ALONSO,ALO,14,Aston Martin,12.0,17.0,0.0,Retired,,12.0,2025,2,1,2,6,17.0,7.0,1,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,F ALONSO,ALO,14,Aston Martin,13.0,17.0,0.0,Retired,,13.0,2025,3,1,2,6,17.0,12.0,1,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,F ALONSO,ALO,14,Aston Martin,12.0,11.0,0.0,Finished,0 days 00:00:57.333000,13.0,2025,4,1,2,6,11.0,13.666666666666666,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,F ALONSO,ALO,14,Aston Martin,13.0,15.0,0.0,Finished,0 days 00:01:00.340000,13.0,2025,5,0,2,6,15.0,13.0,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,F ALONSO,ALO,14,Aston Martin,13.0,11.0,0.0,Finished,0 days 00:01:15.917000,13.0,2025,6,1,2,6,11.0,13.4,0,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,F ALONSO,ALO,14,Aston Martin,17.0,15.0,0.0,Lapped,0 days 00:00:20.979000,17.0,2025,7,0,2,6,15.0,14.2,1,0.3333333333333333
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,F ALONSO,ALO,14,Aston Martin,5.0,11.0,0.0,Finished,0 days 00:00:27.250000,5.0,2025,8,1,2,6,11.0,13.8,0,0.42857142857142855
+8,Monaco Grand Prix,2025-05-25,technical,F ALONSO,ALO,14,Aston Martin,6.0,19.0,0.0,Retired,,7.0,2025,9,2,2,6,19.0,12.6,1,0.375
+9,Spanish Grand Prix,2025-06-01,balanced,F ALONSO,ALO,14,Aston Martin,10.0,9.0,2.0,Finished,0 days 00:00:21.564000,10.0,2025,10,1,2,6,9.0,14.2,0,0.4444444444444444
+10,Canadian Grand Prix,2025-06-15,balanced,F ALONSO,ALO,14,Aston Martin,6.0,7.0,6.0,Finished,0 days 00:00:10.972000,6.0,2025,11,1,2,6,7.0,13.0,0,0.4
+11,Austrian Grand Prix,2025-06-29,balanced,F ALONSO,ALO,14,Aston Martin,11.0,7.0,6.0,Lapped,0 days 00:00:01.437000,11.0,2025,12,1,2,6,7.0,12.2,1,0.36363636363636365
+12,British Grand Prix,2025-07-06,balanced,F ALONSO,ALO,14,Aston Martin,7.0,9.0,2.0,Finished,0 days 00:01:05.858000,9.0,2025,13,1,2,6,9.0,10.6,0,0.4166666666666667
+13,Belgian Grand Prix,2025-07-27,balanced,F ALONSO,ALO,14,Aston Martin,20.0,17.0,0.0,Finished,0 days 00:01:27.924000,19.0,2025,14,1,2,6,17.0,10.2,0,0.38461538461538464
+14,Hungarian Grand Prix,2025-08-03,balanced,F ALONSO,ALO,14,Aston Martin,5.0,5.0,10.0,Finished,0 days 00:00:59.040000,5.0,2025,15,1,2,6,5.0,9.8,0,0.35714285714285715
+15,Dutch Grand Prix,2025-08-31,balanced,F ALONSO,ALO,14,Aston Martin,10.0,8.0,4.0,Finished,0 days 00:00:11.709000,10.0,2025,16,1,2,6,8.0,9.0,0,0.3333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,F ALONSO,ALO,14,Aston Martin,8.0,19.0,0.0,Retired,,9.0,2025,17,1,2,6,19.0,9.2,1,0.3125
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,F ALONSO,ALO,14,Aston Martin,11.0,15.0,0.0,Finished,0 days 00:01:18.707000,11.0,2025,18,0,2,6,15.0,11.6,0,0.35294117647058826
+18,Singapore Grand Prix,2025-10-05,technical,F ALONSO,ALO,14,Aston Martin,10.0,7.0,6.0,Finished,0 days 00:01:20.667000,10.0,2025,19,2,2,6,7.0,12.8,0,0.3333333333333333
+19,United States Grand Prix,2025-10-19,balanced,F ALONSO,ALO,14,Aston Martin,10.0,10.0,1.0,Finished,0 days 00:01:10.001000,10.0,2025,20,1,2,6,10.0,10.8,0,0.3157894736842105
+20,Mexico City Grand Prix,2025-10-26,balanced,F ALONSO,ALO,14,Aston Martin,14.0,18.0,0.0,Retired,,14.0,2025,21,1,2,6,18.0,11.8,1,0.3
+21,São Paulo Grand Prix,2025-11-09,balanced,F ALONSO,ALO,14,Aston Martin,11.0,14.0,0.0,Finished,0 days 00:00:55.766000,11.0,2025,22,1,2,6,14.0,13.8,0,0.3333333333333333
+22,Las Vegas Grand Prix,2025-11-22,balanced,F ALONSO,ALO,14,Aston Martin,7.0,11.0,0.0,Finished,0 days 00:01:25.308000,7.0,2025,23,1,2,6,11.0,12.8,0,0.3181818181818182
+23,Qatar Grand Prix,2025-11-30,high_speed,F ALONSO,ALO,14,Aston Martin,8.0,7.0,6.0,Finished,0 days 00:00:54.045000,8.0,2025,24,0,2,6,7.0,12.0,0,0.30434782608695654
+0,Pre-Season Testing,2025-02-28,balanced,F COLAPINTO,COL,43,Alpine,16.0,16.0,0.0,Lapped,0 days 00:00:42.890000,16.0,2025,1,1,2,15,16.0,15.2,1,0.7222222222222222
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,F COLAPINTO,COL,43,Alpine,16.0,16.0,0.0,Finished,0 days 00:00:33.411000,15.0,2025,8,1,2,15,16.0,16.0,0,1.0
+8,Monaco Grand Prix,2025-05-25,technical,F COLAPINTO,COL,43,Alpine,18.0,13.0,0.0,Lapped,0 days 00:00:57.114000,20.0,2025,9,2,2,15,13.0,16.0,1,0.5
+9,Spanish Grand Prix,2025-06-01,balanced,F COLAPINTO,COL,43,Alpine,18.0,15.0,0.0,Finished,0 days 00:00:31.381000,19.0,2025,10,1,2,15,15.0,15.0,0,0.6666666666666666
+10,Canadian Grand Prix,2025-06-15,balanced,F COLAPINTO,COL,43,Alpine,10.0,13.0,0.0,Lapped,0 days 00:00:07.018000,12.0,2025,11,1,2,15,13.0,15.0,1,0.5
+11,Austrian Grand Prix,2025-06-29,balanced,F COLAPINTO,COL,43,Alpine,14.0,15.0,0.0,Lapped,0 days 00:00:42.692000,14.0,2025,12,1,2,15,15.0,14.6,1,0.6
+12,British Grand Prix,2025-07-06,balanced,F COLAPINTO,COL,43,Alpine,20.0,20.0,0.0,Did not start,,20.0,2025,13,1,2,15,20.0,14.4,1,0.6666666666666666
+13,Belgian Grand Prix,2025-07-27,balanced,F COLAPINTO,COL,43,Alpine,15.0,19.0,0.0,Finished,0 days 00:01:35.250000,17.0,2025,14,1,2,15,19.0,15.2,0,0.7142857142857143
+14,Hungarian Grand Prix,2025-08-03,balanced,F COLAPINTO,COL,43,Alpine,14.0,18.0,0.0,Lapped,0 days 00:00:47.370000,14.0,2025,15,1,2,15,18.0,16.4,1,0.625
+15,Dutch Grand Prix,2025-08-31,balanced,F COLAPINTO,COL,43,Alpine,16.0,11.0,0.0,Finished,0 days 00:00:14.511000,16.0,2025,16,1,2,15,11.0,17.0,0,0.6666666666666666
+16,Italian Grand Prix,2025-09-07,balanced,F COLAPINTO,COL,43,Alpine,17.0,17.0,0.0,Lapped,0 days 00:00:07.448000,18.0,2025,17,1,2,15,17.0,16.6,1,0.6
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,F COLAPINTO,COL,43,Alpine,16.0,19.0,0.0,Lapped,0 days 00:00:06.325000,16.0,2025,18,0,2,15,19.0,17.0,1,0.6363636363636364
+18,Singapore Grand Prix,2025-10-05,technical,F COLAPINTO,COL,43,Alpine,16.0,16.0,0.0,Lapped,0 days 00:00:42.890000,16.0,2025,19,2,2,15,16.0,16.8,1,0.6666666666666666
+19,United States Grand Prix,2025-10-19,balanced,F COLAPINTO,COL,43,Alpine,15.0,17.0,0.0,Lapped,0 days 00:00:02.307000,15.0,2025,20,1,2,15,17.0,16.2,1,0.6923076923076923
+20,Mexico City Grand Prix,2025-10-26,balanced,F COLAPINTO,COL,43,Alpine,20.0,16.0,0.0,Lapped,0 days 00:00:44.376000,20.0,2025,21,1,2,15,16.0,16.0,1,0.7142857142857143
+21,São Paulo Grand Prix,2025-11-09,balanced,F COLAPINTO,COL,43,Alpine,16.0,15.0,0.0,Finished,0 days 00:00:57.777000,18.0,2025,22,1,2,15,15.0,17.0,0,0.7333333333333333
+22,Las Vegas Grand Prix,2025-11-22,balanced,F COLAPINTO,COL,43,Alpine,15.0,15.0,0.0,Lapped,0 days 00:00:10.459000,15.0,2025,23,1,2,15,15.0,16.6,1,0.6875
+23,Qatar Grand Prix,2025-11-30,high_speed,F COLAPINTO,COL,43,Alpine,20.0,14.0,0.0,Lapped,0 days 00:00:03.283000,20.0,2025,24,0,2,15,14.0,15.8,1,0.7058823529411765
+0,Pre-Season Testing,2025-02-28,balanced,G BORTOLETO,BOR,5,Kick Sauber,14.0,17.0,0.0,Lapped,0 days 00:00:46.753000,14.0,2025,1,1,2,16,17.0,12.636363636363637,1,0.5416666666666667
+1,Australian Grand Prix,2025-03-16,balanced,G BORTOLETO,BOR,5,Kick Sauber,15.0,16.0,0.0,Retired,,15.0,2025,2,1,2,16,16.0,17.0,1,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,G BORTOLETO,BOR,5,Kick Sauber,19.0,14.0,0.0,Lapped,0 days 00:00:10.756000,19.0,2025,3,1,2,16,14.0,16.5,1,1.0
+3,Japanese Grand Prix,2025-04-06,balanced,G BORTOLETO,BOR,5,Kick Sauber,17.0,19.0,0.0,Finished,0 days 00:01:23.897000,17.0,2025,4,1,2,16,19.0,15.666666666666666,0,1.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,G BORTOLETO,BOR,5,Kick Sauber,18.0,18.0,0.0,Finished,0 days 00:01:06.872000,18.0,2025,5,0,2,16,18.0,16.5,0,0.75
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,G BORTOLETO,BOR,5,Kick Sauber,20.0,18.0,0.0,Lapped,0 days 00:00:19.306000,20.0,2025,6,1,2,16,18.0,16.8,1,0.6
+6,Miami Grand Prix,2025-05-04,high_speed,G BORTOLETO,BOR,5,Kick Sauber,13.0,18.0,0.0,Retired,,13.0,2025,7,0,2,16,18.0,17.0,1,0.6666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,G BORTOLETO,BOR,5,Kick Sauber,14.0,18.0,0.0,Finished,0 days 00:00:38.572000,14.0,2025,8,1,2,16,18.0,17.4,0,0.7142857142857143
+8,Monaco Grand Prix,2025-05-25,technical,G BORTOLETO,BOR,5,Kick Sauber,16.0,14.0,0.0,Lapped,0 days 00:01:08.424000,16.0,2025,9,2,2,16,14.0,18.2,1,0.625
+9,Spanish Grand Prix,2025-06-01,balanced,G BORTOLETO,BOR,5,Kick Sauber,12.0,12.0,0.0,Finished,0 days 00:00:25.996000,12.0,2025,10,1,2,16,12.0,17.2,0,0.6666666666666666
+10,Canadian Grand Prix,2025-06-15,balanced,G BORTOLETO,BOR,5,Kick Sauber,15.0,14.0,0.0,Lapped,0 days 00:00:07.879000,16.0,2025,11,1,2,16,14.0,16.0,1,0.6
+11,Austrian Grand Prix,2025-06-29,balanced,G BORTOLETO,BOR,5,Kick Sauber,8.0,8.0,4.0,Lapped,0 days 00:00:01.952000,8.0,2025,12,1,2,16,8.0,15.2,1,0.6363636363636364
+12,British Grand Prix,2025-07-06,balanced,G BORTOLETO,BOR,5,Kick Sauber,16.0,18.0,0.0,Retired,,17.0,2025,13,1,2,16,18.0,13.2,1,0.6666666666666666
+13,Belgian Grand Prix,2025-07-27,balanced,G BORTOLETO,BOR,5,Kick Sauber,10.0,9.0,2.0,Finished,0 days 00:00:56.434000,10.0,2025,14,1,2,16,9.0,13.2,0,0.6923076923076923
+14,Hungarian Grand Prix,2025-08-03,balanced,G BORTOLETO,BOR,5,Kick Sauber,7.0,6.0,8.0,Finished,0 days 00:01:06.169000,7.0,2025,15,1,2,16,6.0,12.2,0,0.6428571428571429
+15,Dutch Grand Prix,2025-08-31,balanced,G BORTOLETO,BOR,5,Kick Sauber,13.0,15.0,0.0,Finished,0 days 00:00:21.565000,13.0,2025,16,1,2,16,15.0,11.0,0,0.6
+16,Italian Grand Prix,2025-09-07,balanced,G BORTOLETO,BOR,5,Kick Sauber,7.0,8.0,4.0,Finished,0 days 00:00:58.484000,8.0,2025,17,1,2,16,8.0,11.2,0,0.5625
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,G BORTOLETO,BOR,5,Kick Sauber,13.0,11.0,0.0,Finished,0 days 00:01:07.606000,13.0,2025,18,0,2,16,11.0,11.2,0,0.5294117647058824
+18,Singapore Grand Prix,2025-10-05,technical,G BORTOLETO,BOR,5,Kick Sauber,14.0,17.0,0.0,Lapped,0 days 00:00:46.753000,14.0,2025,19,2,2,16,17.0,9.8,1,0.5
+19,United States Grand Prix,2025-10-19,balanced,G BORTOLETO,BOR,5,Kick Sauber,16.0,18.0,0.0,Lapped,0 days 00:00:03.557000,16.0,2025,20,1,2,16,18.0,11.4,1,0.5263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,G BORTOLETO,BOR,5,Kick Sauber,16.0,10.0,1.0,Finished,0 days 00:01:16.863000,16.0,2025,21,1,2,16,10.0,13.8,0,0.55
+21,São Paulo Grand Prix,2025-11-09,balanced,G BORTOLETO,BOR,5,Kick Sauber,18.0,20.0,0.0,Retired,,18.0,2025,22,1,2,16,20.0,12.8,1,0.5238095238095238
+22,Las Vegas Grand Prix,2025-11-22,balanced,G BORTOLETO,BOR,5,Kick Sauber,18.0,17.0,0.0,Retired,,18.0,2025,23,1,2,16,17.0,15.2,1,0.5454545454545454
+23,Qatar Grand Prix,2025-11-30,high_speed,G BORTOLETO,BOR,5,Kick Sauber,19.0,13.0,0.0,Finished,0 days 00:01:24.812000,14.0,2025,24,0,2,16,13.0,16.4,0,0.5652173913043478
+0,Pre-Season Testing,2025-02-28,balanced,G RUSSELL,RUS,63,Mercedes,1.0,1.0,25.0,Finished,0 days 01:40:22.367000,1.0,2025,1,1,0,0,1.0,4.086956521739131,0,0.0416666666666666
+1,Australian Grand Prix,2025-03-16,balanced,G RUSSELL,RUS,63,Mercedes,4.0,3.0,15.0,Finished,0 days 00:00:08.481000,4.0,2025,2,1,0,0,3.0,1.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,G RUSSELL,RUS,63,Mercedes,2.0,3.0,15.0,Finished,0 days 00:00:11.097000,2.0,2025,3,1,0,0,3.0,2.0,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,G RUSSELL,RUS,63,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:17.362000,5.0,2025,4,1,0,0,5.0,2.3333333333333335,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,G RUSSELL,RUS,63,Mercedes,3.0,2.0,18.0,Finished,0 days 00:00:15.499000,2.0,2025,5,0,0,0,2.0,3.0,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,G RUSSELL,RUS,63,Mercedes,3.0,5.0,10.0,Finished,0 days 00:00:27.236000,3.0,2025,6,1,0,0,5.0,2.8,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,G RUSSELL,RUS,63,Mercedes,5.0,3.0,15.0,Finished,0 days 00:00:37.644000,5.0,2025,7,0,0,0,3.0,3.6,0,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,G RUSSELL,RUS,63,Mercedes,3.0,7.0,6.0,Finished,0 days 00:00:22.034000,3.0,2025,8,1,0,0,7.0,3.6,0,0.0
+8,Monaco Grand Prix,2025-05-25,technical,G RUSSELL,RUS,63,Mercedes,14.0,11.0,0.0,Lapped,0 days 00:00:33.844000,14.0,2025,9,2,0,0,11.0,4.4,1,0.0
+9,Spanish Grand Prix,2025-06-01,balanced,G RUSSELL,RUS,63,Mercedes,4.0,4.0,12.0,Finished,0 days 00:00:11.359000,4.0,2025,10,1,0,0,4.0,5.6,0,0.1111111111111111
+10,Canadian Grand Prix,2025-06-15,balanced,G RUSSELL,RUS,63,Mercedes,1.0,1.0,25.0,Finished,0 days 01:31:52.688000,1.0,2025,11,1,0,0,1.0,6.0,0,0.1
+11,Austrian Grand Prix,2025-06-29,balanced,G RUSSELL,RUS,63,Mercedes,5.0,5.0,10.0,Finished,0 days 00:01:02.396000,5.0,2025,12,1,0,0,5.0,5.2,0,0.09090909090909091
+12,British Grand Prix,2025-07-06,balanced,G RUSSELL,RUS,63,Mercedes,4.0,10.0,1.0,Finished,0 days 00:01:10.674000,4.0,2025,13,1,0,0,10.0,5.6,0,0.08333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,G RUSSELL,RUS,63,Mercedes,6.0,5.0,10.0,Finished,0 days 00:00:34.863000,6.0,2025,14,1,0,0,5.0,6.2,0,0.07692307692307693
+14,Hungarian Grand Prix,2025-08-03,balanced,G RUSSELL,RUS,63,Mercedes,4.0,3.0,15.0,Finished,0 days 00:00:21.916000,4.0,2025,15,1,0,0,3.0,5.0,0,0.07142857142857142
+15,Dutch Grand Prix,2025-08-31,balanced,G RUSSELL,RUS,63,Mercedes,5.0,4.0,12.0,Finished,0 days 00:00:05.654000,5.0,2025,16,1,0,0,4.0,4.8,0,0.06666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,G RUSSELL,RUS,63,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:32.881000,6.0,2025,17,1,0,0,5.0,5.4,0,0.0625
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,G RUSSELL,RUS,63,Mercedes,5.0,2.0,18.0,Finished,0 days 00:00:14.609000,5.0,2025,18,0,0,0,2.0,5.4,0,0.058823529411764705
+18,Singapore Grand Prix,2025-10-05,technical,G RUSSELL,RUS,63,Mercedes,1.0,1.0,25.0,Finished,0 days 01:40:22.367000,1.0,2025,19,2,0,0,1.0,3.8,0,0.05555555555555555
+19,United States Grand Prix,2025-10-19,balanced,G RUSSELL,RUS,63,Mercedes,4.0,6.0,8.0,Finished,0 days 00:00:33.456000,4.0,2025,20,1,0,0,6.0,3.0,0,0.05263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,G RUSSELL,RUS,63,Mercedes,4.0,7.0,6.0,Finished,0 days 00:00:50.287000,4.0,2025,21,1,0,0,7.0,3.6,0,0.05
+21,São Paulo Grand Prix,2025-11-09,balanced,G RUSSELL,RUS,63,Mercedes,6.0,4.0,12.0,Finished,0 days 00:00:15.267000,6.0,2025,22,1,0,0,4.0,4.2,0,0.047619047619047616
+22,Las Vegas Grand Prix,2025-11-22,balanced,G RUSSELL,RUS,63,Mercedes,4.0,2.0,18.0,Finished,0 days 00:00:23.546000,4.0,2025,23,1,0,0,2.0,4.0,0,0.045454545454545456
+23,Qatar Grand Prix,2025-11-30,high_speed,G RUSSELL,RUS,63,Mercedes,4.0,6.0,8.0,Finished,0 days 00:00:48.599000,4.0,2025,24,0,0,0,6.0,4.0,0,0.043478260869565216
+0,Pre-Season Testing,2025-02-28,balanced,I HADJAR,HAD,6,Racing Bulls,8.0,11.0,0.0,Lapped,0 days 00:00:17.335000,8.0,2025,1,1,2,10,11.0,9.384615384615383,1,0.4583333333333333
+1,Australian Grand Prix,2025-03-16,balanced,I HADJAR,HAD,6,Racing Bulls,11.0,20.0,0.0,Retired,,11.0,2025,2,1,2,10,20.0,11.0,1,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,I HADJAR,HAD,6,Racing Bulls,7.0,11.0,0.0,Finished,0 days 00:01:18.875000,7.0,2025,3,1,2,10,11.0,15.5,0,1.0
+3,Japanese Grand Prix,2025-04-06,balanced,I HADJAR,HAD,6,Racing Bulls,7.0,8.0,4.0,Finished,0 days 00:00:37.134000,7.0,2025,4,1,2,10,8.0,14.0,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,I HADJAR,HAD,6,Racing Bulls,12.0,13.0,0.0,Finished,0 days 00:00:56.314000,12.0,2025,5,0,2,10,13.0,12.5,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,I HADJAR,HAD,6,Racing Bulls,14.0,10.0,1.0,Finished,0 days 00:01:07.091000,14.0,2025,6,1,2,10,10.0,12.6,0,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,I HADJAR,HAD,6,Racing Bulls,11.0,11.0,0.0,Finished,0 days 00:01:14.602000,11.0,2025,7,0,2,10,11.0,12.4,0,0.3333333333333333
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,I HADJAR,HAD,6,Racing Bulls,9.0,9.0,2.0,Finished,0 days 00:00:23.586000,9.0,2025,8,1,2,10,9.0,10.6,0,0.2857142857142857
+8,Monaco Grand Prix,2025-05-25,technical,I HADJAR,HAD,6,Racing Bulls,5.0,6.0,8.0,Lapped,0 days 00:01:05.082000,6.0,2025,9,2,2,10,6.0,10.2,1,0.25
+9,Spanish Grand Prix,2025-06-01,balanced,I HADJAR,HAD,6,Racing Bulls,9.0,7.0,6.0,Finished,0 days 00:00:16.022000,9.0,2025,10,1,2,10,7.0,9.8,0,0.3333333333333333
+10,Canadian Grand Prix,2025-06-15,balanced,I HADJAR,HAD,6,Racing Bulls,12.0,16.0,0.0,Lapped,0 days 00:00:08.737000,9.0,2025,11,1,2,10,16.0,8.6,1,0.3
+11,Austrian Grand Prix,2025-06-29,balanced,I HADJAR,HAD,6,Racing Bulls,13.0,12.0,0.0,Lapped,0 days 00:00:27.957000,13.0,2025,12,1,2,10,12.0,9.8,1,0.36363636363636365
+12,British Grand Prix,2025-07-06,balanced,I HADJAR,HAD,6,Racing Bulls,12.0,17.0,0.0,Retired,,13.0,2025,13,1,2,10,17.0,10.0,1,0.4166666666666667
+13,Belgian Grand Prix,2025-07-27,balanced,I HADJAR,HAD,6,Racing Bulls,8.0,20.0,0.0,Lapped,0 days 00:00:12.942000,8.0,2025,14,1,2,10,20.0,11.6,1,0.46153846153846156
+14,Hungarian Grand Prix,2025-08-03,balanced,I HADJAR,HAD,6,Racing Bulls,10.0,11.0,0.0,Lapped,0 days 00:00:08.500000,10.0,2025,15,1,2,10,11.0,14.4,1,0.5
+15,Dutch Grand Prix,2025-08-31,balanced,I HADJAR,HAD,6,Racing Bulls,4.0,3.0,15.0,Finished,0 days 00:00:03.233000,4.0,2025,16,1,2,10,3.0,15.2,0,0.5333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,I HADJAR,HAD,6,Racing Bulls,19.0,10.0,1.0,Finished,0 days 00:01:03.891000,16.0,2025,17,1,2,10,10.0,12.6,0,0.5
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,I HADJAR,HAD,6,Racing Bulls,8.0,10.0,1.0,Finished,0 days 00:00:38.982000,8.0,2025,18,0,2,10,10.0,12.2,0,0.47058823529411764
+18,Singapore Grand Prix,2025-10-05,technical,I HADJAR,HAD,6,Racing Bulls,8.0,11.0,0.0,Lapped,0 days 00:00:17.335000,8.0,2025,19,2,2,10,11.0,10.8,1,0.4444444444444444
+19,United States Grand Prix,2025-10-19,balanced,I HADJAR,HAD,6,Racing Bulls,20.0,16.0,0.0,Finished,0 days 00:01:32.807000,20.0,2025,20,1,2,10,16.0,9.0,0,0.47368421052631576
+20,Mexico City Grand Prix,2025-10-26,balanced,I HADJAR,HAD,6,Racing Bulls,8.0,13.0,0.0,Lapped,0 days 00:00:06.656000,9.0,2025,21,1,2,10,13.0,10.0,1,0.45
+21,São Paulo Grand Prix,2025-11-09,balanced,I HADJAR,HAD,6,Racing Bulls,5.0,8.0,4.0,Finished,0 days 00:00:52.873000,5.0,2025,22,1,2,10,8.0,12.0,0,0.47619047619047616
+22,Las Vegas Grand Prix,2025-11-22,balanced,I HADJAR,HAD,6,Racing Bulls,8.0,6.0,8.0,Finished,0 days 00:00:45.257000,8.0,2025,23,1,2,10,6.0,11.6,0,0.45454545454545453
+23,Qatar Grand Prix,2025-11-30,high_speed,I HADJAR,HAD,6,Racing Bulls,6.0,18.0,0.0,Retired,,6.0,2025,24,0,2,10,18.0,10.8,1,0.43478260869565216
+1,Australian Grand Prix,2025-03-16,balanced,J DOOHAN,DOO,7,Alpine,14.0,19.0,0.0,Retired,,14.0,2025,2,1,2,21,19.0,14.0,1,0.5
+2,Chinese Grand Prix,2025-03-23,balanced,J DOOHAN,DOO,7,Alpine,18.0,13.0,0.0,Finished,0 days 00:01:28.401000,18.0,2025,3,1,2,21,13.0,19.0,0,1.0
+3,Japanese Grand Prix,2025-04-06,balanced,J DOOHAN,DOO,7,Alpine,19.0,15.0,0.0,Finished,0 days 00:01:21.314000,19.0,2025,4,1,2,21,15.0,16.0,0,0.5
+4,Bahrain Grand Prix,2025-04-13,high_speed,J DOOHAN,DOO,7,Alpine,11.0,14.0,0.0,Finished,0 days 00:00:57.806000,11.0,2025,5,0,2,21,14.0,15.666666666666666,0,0.3333333333333333
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,J DOOHAN,DOO,7,Alpine,17.0,17.0,0.0,Lapped,0 days 00:00:19.264000,17.0,2025,6,1,2,21,17.0,15.25,1,0.25
+6,Miami Grand Prix,2025-05-04,high_speed,J DOOHAN,DOO,7,Alpine,14.0,20.0,0.0,Retired,,14.0,2025,7,0,2,21,20.0,15.6,1,0.4
+0,Pre-Season Testing,2025-02-28,balanced,K ANTONELLI,ANT,12,Mercedes,4.0,5.0,10.0,Finished,0 days 00:00:33.681000,4.0,2025,1,1,0,4,5.0,7.176470588235294,0,0.2608695652173913
+2,Chinese Grand Prix,2025-03-23,balanced,K ANTONELLI,ANT,12,Mercedes,8.0,6.0,8.0,Finished,0 days 00:00:53.748000,8.0,2025,3,1,0,4,6.0,5.0,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,K ANTONELLI,ANT,12,Mercedes,6.0,6.0,8.0,Finished,0 days 00:00:18.671000,6.0,2025,4,1,0,4,6.0,5.5,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,K ANTONELLI,ANT,12,Mercedes,5.0,11.0,0.0,Finished,0 days 00:00:48.016000,4.0,2025,5,0,0,4,11.0,5.666666666666667,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,K ANTONELLI,ANT,12,Mercedes,5.0,6.0,8.0,Finished,0 days 00:00:34.688000,5.0,2025,6,1,0,4,6.0,7.0,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,K ANTONELLI,ANT,12,Mercedes,3.0,6.0,8.0,Finished,0 days 00:00:55.502000,3.0,2025,7,0,0,4,6.0,6.8,0,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,K ANTONELLI,ANT,12,Mercedes,13.0,19.0,0.0,Retired,,13.0,2025,8,1,0,4,19.0,7.0,1,0.0
+8,Monaco Grand Prix,2025-05-25,technical,K ANTONELLI,ANT,12,Mercedes,15.0,18.0,0.0,Lapped,0 days 00:00:08.409000,15.0,2025,9,2,0,4,18.0,9.6,1,0.14285714285714285
+9,Spanish Grand Prix,2025-06-01,balanced,K ANTONELLI,ANT,12,Mercedes,6.0,18.0,0.0,Retired,,6.0,2025,10,1,0,4,18.0,12.0,1,0.25
+10,Canadian Grand Prix,2025-06-15,balanced,K ANTONELLI,ANT,12,Mercedes,4.0,3.0,15.0,Finished,0 days 00:00:01.014000,4.0,2025,11,1,0,4,3.0,13.4,0,0.3333333333333333
+11,Austrian Grand Prix,2025-06-29,balanced,K ANTONELLI,ANT,12,Mercedes,9.0,19.0,0.0,Retired,,9.0,2025,12,1,0,4,19.0,12.8,1,0.3
+12,British Grand Prix,2025-07-06,balanced,K ANTONELLI,ANT,12,Mercedes,10.0,16.0,0.0,Retired,,7.0,2025,13,1,0,4,16.0,15.4,1,0.36363636363636365
+13,Belgian Grand Prix,2025-07-27,balanced,K ANTONELLI,ANT,12,Mercedes,19.0,16.0,0.0,Finished,0 days 00:01:26.721000,18.0,2025,14,1,0,4,16.0,14.8,0,0.4166666666666667
+14,Hungarian Grand Prix,2025-08-03,balanced,K ANTONELLI,ANT,12,Mercedes,15.0,10.0,1.0,Lapped,0 days 00:00:07.649000,15.0,2025,15,1,0,4,10.0,14.4,1,0.38461538461538464
+15,Dutch Grand Prix,2025-08-31,balanced,K ANTONELLI,ANT,12,Mercedes,11.0,16.0,0.0,Finished,0 days 00:00:22.029000,11.0,2025,16,1,0,4,16.0,12.8,0,0.42857142857142855
+16,Italian Grand Prix,2025-09-07,balanced,K ANTONELLI,ANT,12,Mercedes,6.0,9.0,2.0,Finished,0 days 00:00:59.762000,7.0,2025,17,1,0,4,9.0,15.4,0,0.4
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,K ANTONELLI,ANT,12,Mercedes,4.0,4.0,12.0,Finished,0 days 00:00:21.760000,4.0,2025,18,0,0,4,4.0,13.4,0,0.375
+18,Singapore Grand Prix,2025-10-05,technical,K ANTONELLI,ANT,12,Mercedes,4.0,5.0,10.0,Finished,0 days 00:00:33.681000,4.0,2025,19,2,0,4,5.0,11.0,0,0.35294117647058826
+19,United States Grand Prix,2025-10-19,balanced,K ANTONELLI,ANT,12,Mercedes,7.0,13.0,0.0,Finished,0 days 00:01:15.746000,7.0,2025,20,1,0,4,13.0,8.8,0,0.3333333333333333
+20,Mexico City Grand Prix,2025-10-26,balanced,K ANTONELLI,ANT,12,Mercedes,6.0,6.0,8.0,Finished,0 days 00:00:47.837000,6.0,2025,21,1,0,4,6.0,9.4,0,0.3157894736842105
+21,São Paulo Grand Prix,2025-11-09,balanced,K ANTONELLI,ANT,12,Mercedes,2.0,2.0,18.0,Finished,0 days 00:00:10.388000,2.0,2025,22,1,0,4,2.0,7.4,0,0.3
+22,Las Vegas Grand Prix,2025-11-22,balanced,K ANTONELLI,ANT,12,Mercedes,17.0,3.0,15.0,Finished,0 days 00:00:30.488000,17.0,2025,23,1,0,4,3.0,6.0,0,0.2857142857142857
+23,Qatar Grand Prix,2025-11-30,high_speed,K ANTONELLI,ANT,12,Mercedes,5.0,5.0,10.0,Finished,0 days 00:00:28.317000,5.0,2025,24,0,0,4,5.0,5.8,0,0.2727272727272727
+0,Pre-Season Testing,2025-02-28,balanced,L HAMILTON,HAM,44,Ferrari,6.0,8.0,4.0,Finished,0 days 00:01:25.251000,6.0,2025,1,1,1,7,8.0,6.75,0,0.1666666666666666
+1,Australian Grand Prix,2025-03-16,balanced,L HAMILTON,HAM,44,Ferrari,8.0,10.0,1.0,Finished,0 days 00:00:22.473000,8.0,2025,2,1,1,7,10.0,8.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,L HAMILTON,HAM,44,Ferrari,5.0,19.0,0.0,Disqualified,,5.0,2025,3,1,1,7,19.0,9.0,1,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,L HAMILTON,HAM,44,Ferrari,8.0,7.0,6.0,Finished,0 days 00:00:29.182000,8.0,2025,4,1,1,7,7.0,12.333333333333334,0,0.3333333333333333
+4,Bahrain Grand Prix,2025-04-13,high_speed,L HAMILTON,HAM,44,Ferrari,9.0,5.0,10.0,Finished,0 days 00:00:27.993000,9.0,2025,5,0,1,7,5.0,11.0,0,0.25
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,L HAMILTON,HAM,44,Ferrari,7.0,7.0,6.0,Finished,0 days 00:00:39.073000,7.0,2025,6,1,1,7,7.0,9.8,0,0.2
+6,Miami Grand Prix,2025-05-04,high_speed,L HAMILTON,HAM,44,Ferrari,12.0,8.0,4.0,Finished,0 days 00:01:00.186000,12.0,2025,7,0,1,7,8.0,9.6,0,0.16666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,L HAMILTON,HAM,44,Ferrari,12.0,4.0,12.0,Finished,0 days 00:00:14.356000,12.0,2025,8,1,1,7,4.0,9.2,0,0.14285714285714285
+8,Monaco Grand Prix,2025-05-25,technical,L HAMILTON,HAM,44,Ferrari,7.0,5.0,10.0,Finished,0 days 00:00:51.387000,4.0,2025,9,2,1,7,5.0,6.2,0,0.125
+9,Spanish Grand Prix,2025-06-01,balanced,L HAMILTON,HAM,44,Ferrari,5.0,6.0,8.0,Finished,0 days 00:00:15.508000,5.0,2025,10,1,1,7,6.0,5.8,0,0.1111111111111111
+10,Canadian Grand Prix,2025-06-15,balanced,L HAMILTON,HAM,44,Ferrari,5.0,6.0,8.0,Finished,0 days 00:00:10.713000,5.0,2025,11,1,1,7,6.0,6.0,0,0.1
+11,Austrian Grand Prix,2025-06-29,balanced,L HAMILTON,HAM,44,Ferrari,4.0,4.0,12.0,Finished,0 days 00:00:29.020000,4.0,2025,12,1,1,7,4.0,5.8,0,0.09090909090909091
+12,British Grand Prix,2025-07-06,balanced,L HAMILTON,HAM,44,Ferrari,5.0,4.0,12.0,Finished,0 days 00:00:39.812000,5.0,2025,13,1,1,7,4.0,5.0,0,0.08333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,L HAMILTON,HAM,44,Ferrari,18.0,7.0,6.0,Finished,0 days 00:00:40.679000,16.0,2025,14,1,1,7,7.0,5.0,0,0.07692307692307693
+14,Hungarian Grand Prix,2025-08-03,balanced,L HAMILTON,HAM,44,Ferrari,12.0,12.0,0.0,Lapped,0 days 00:00:09.861000,12.0,2025,15,1,1,7,12.0,5.4,1,0.07142857142857142
+15,Dutch Grand Prix,2025-08-31,balanced,L HAMILTON,HAM,44,Ferrari,7.0,20.0,0.0,Retired,,7.0,2025,16,1,1,7,20.0,6.6,1,0.13333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,L HAMILTON,HAM,44,Ferrari,10.0,6.0,8.0,Finished,0 days 00:00:37.449000,5.0,2025,17,1,1,7,6.0,9.4,0,0.1875
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,L HAMILTON,HAM,44,Ferrari,12.0,8.0,4.0,Finished,0 days 00:00:36.310000,12.0,2025,18,0,1,7,8.0,9.8,0,0.17647058823529413
+18,Singapore Grand Prix,2025-10-05,technical,L HAMILTON,HAM,44,Ferrari,6.0,8.0,4.0,Finished,0 days 00:01:25.251000,6.0,2025,19,2,1,7,8.0,10.6,0,0.16666666666666666
+19,United States Grand Prix,2025-10-19,balanced,L HAMILTON,HAM,44,Ferrari,5.0,4.0,12.0,Finished,0 days 00:00:28.536000,5.0,2025,20,1,1,7,4.0,10.8,0,0.15789473684210525
+20,Mexico City Grand Prix,2025-10-26,balanced,L HAMILTON,HAM,44,Ferrari,3.0,8.0,4.0,Finished,0 days 00:00:56.446000,3.0,2025,21,1,1,7,8.0,9.2,0,0.15
+21,São Paulo Grand Prix,2025-11-09,balanced,L HAMILTON,HAM,44,Ferrari,13.0,18.0,0.0,Retired,,13.0,2025,22,1,1,7,18.0,6.8,1,0.14285714285714285
+22,Las Vegas Grand Prix,2025-11-22,balanced,L HAMILTON,HAM,44,Ferrari,19.0,8.0,4.0,Finished,0 days 00:00:59.369000,20.0,2025,23,1,1,7,8.0,9.2,0,0.18181818181818182
+23,Qatar Grand Prix,2025-11-30,high_speed,L HAMILTON,HAM,44,Ferrari,17.0,12.0,0.0,Finished,0 days 00:01:17.730000,18.0,2025,24,0,1,7,12.0,9.2,0,0.17391304347826086
+0,Pre-Season Testing,2025-02-28,balanced,L LAWSON,LAW,30,Racing Bulls,12.0,15.0,0.0,Lapped,0 days 00:00:27.145000,12.0,2025,1,1,2,14,15.0,10.8,1,0.375
+1,Australian Grand Prix,2025-03-16,balanced,L LAWSON,LAW,30,Red Bull Racing,18.0,15.0,0.0,Retired,,18.0,2025,2,1,0,14,15.0,15.0,1,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,L LAWSON,LAW,30,Red Bull Racing,20.0,12.0,0.0,Finished,0 days 00:01:21.147000,20.0,2025,3,1,0,14,12.0,15.0,0,1.0
+3,Japanese Grand Prix,2025-04-06,balanced,L LAWSON,LAW,30,Racing Bulls,13.0,17.0,0.0,Finished,0 days 00:01:22.734000,14.0,2025,4,1,2,14,17.0,14.0,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,L LAWSON,LAW,30,Racing Bulls,17.0,16.0,0.0,Finished,0 days 00:01:04.435000,17.0,2025,5,0,2,14,16.0,14.75,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,L LAWSON,LAW,30,Racing Bulls,12.0,12.0,0.0,Finished,0 days 00:01:18.451000,12.0,2025,6,1,2,14,12.0,15.0,0,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,L LAWSON,LAW,30,Racing Bulls,15.0,17.0,0.0,Retired,,15.0,2025,7,0,2,14,17.0,14.4,1,0.3333333333333333
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,L LAWSON,LAW,30,Racing Bulls,15.0,14.0,0.0,Finished,0 days 00:00:32.511000,16.0,2025,8,1,2,14,14.0,14.8,0,0.42857142857142855
+8,Monaco Grand Prix,2025-05-25,technical,L LAWSON,LAW,30,Racing Bulls,9.0,8.0,4.0,Lapped,0 days 00:01:06.746000,9.0,2025,9,2,2,14,8.0,15.2,1,0.375
+9,Spanish Grand Prix,2025-06-01,balanced,L LAWSON,LAW,30,Racing Bulls,13.0,11.0,0.0,Finished,0 days 00:00:25.532000,13.0,2025,10,1,2,14,11.0,13.4,0,0.4444444444444444
+10,Canadian Grand Prix,2025-06-15,balanced,L LAWSON,LAW,30,Racing Bulls,19.0,19.0,0.0,Retired,,19.0,2025,11,1,2,14,19.0,12.4,1,0.4
+11,Austrian Grand Prix,2025-06-29,balanced,L LAWSON,LAW,30,Racing Bulls,6.0,6.0,8.0,Finished,0 days 00:01:07.754000,6.0,2025,12,1,2,14,6.0,13.8,0,0.45454545454545453
+12,British Grand Prix,2025-07-06,balanced,L LAWSON,LAW,30,Racing Bulls,15.0,19.0,0.0,Retired,,16.0,2025,13,1,2,14,19.0,11.6,1,0.4166666666666667
+13,Belgian Grand Prix,2025-07-27,balanced,L LAWSON,LAW,30,Racing Bulls,9.0,8.0,4.0,Finished,0 days 00:00:52.033000,9.0,2025,14,1,2,14,8.0,12.6,0,0.46153846153846156
+14,Hungarian Grand Prix,2025-08-03,balanced,L LAWSON,LAW,30,Racing Bulls,9.0,8.0,4.0,Finished,0 days 00:01:09.451000,9.0,2025,15,1,2,14,8.0,12.6,0,0.42857142857142855
+15,Dutch Grand Prix,2025-08-31,balanced,L LAWSON,LAW,30,Racing Bulls,8.0,12.0,0.0,Finished,0 days 00:00:17.063000,8.0,2025,16,1,2,14,12.0,12.0,0,0.4
+16,Italian Grand Prix,2025-09-07,balanced,L LAWSON,LAW,30,Racing Bulls,18.0,14.0,0.0,Finished,0 days 00:01:22.351000,20.0,2025,17,1,2,14,14.0,10.6,0,0.375
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,L LAWSON,LAW,30,Racing Bulls,3.0,5.0,10.0,Finished,0 days 00:00:33.290000,3.0,2025,18,0,2,14,5.0,12.2,0,0.35294117647058826
+18,Singapore Grand Prix,2025-10-05,technical,L LAWSON,LAW,30,Racing Bulls,12.0,15.0,0.0,Lapped,0 days 00:00:27.145000,12.0,2025,19,2,2,14,15.0,9.4,1,0.3333333333333333
+19,United States Grand Prix,2025-10-19,balanced,L LAWSON,LAW,30,Racing Bulls,12.0,11.0,0.0,Finished,0 days 00:01:13.209000,12.0,2025,20,1,2,14,11.0,10.8,0,0.3684210526315789
+20,Mexico City Grand Prix,2025-10-26,balanced,L LAWSON,LAW,30,Racing Bulls,15.0,20.0,0.0,Retired,,15.0,2025,21,1,2,14,20.0,11.4,1,0.35
+21,São Paulo Grand Prix,2025-11-09,balanced,L LAWSON,LAW,30,Racing Bulls,7.0,7.0,6.0,Finished,0 days 00:00:52.642000,7.0,2025,22,1,2,14,7.0,13.0,0,0.38095238095238093
+22,Las Vegas Grand Prix,2025-11-22,balanced,L LAWSON,LAW,30,Racing Bulls,6.0,14.0,0.0,Lapped,0 days 00:00:03.291000,6.0,2025,23,1,2,14,14.0,11.6,1,0.36363636363636365
+23,Qatar Grand Prix,2025-11-30,high_speed,L LAWSON,LAW,30,Racing Bulls,12.0,9.0,2.0,Finished,0 days 00:01:00.073000,12.0,2025,24,0,2,14,9.0,13.4,0,0.391304347826087
+0,Pre-Season Testing,2025-02-28,balanced,L NORRIS,NOR,4,McLaren,5.0,3.0,15.0,Finished,0 days 00:00:06.066000,5.0,2025,1,1,0,2,3.0,2.238095238095238,0,0.125
+1,Australian Grand Prix,2025-03-16,balanced,L NORRIS,NOR,4,McLaren,1.0,1.0,25.0,Finished,0 days 01:42:06.304000,1.0,2025,2,1,0,2,1.0,3.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,L NORRIS,NOR,4,McLaren,3.0,2.0,18.0,Finished,0 days 00:00:09.748000,3.0,2025,3,1,0,2,2.0,2.0,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,L NORRIS,NOR,4,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:01.423000,2.0,2025,4,1,0,2,2.0,2.0,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,L NORRIS,NOR,4,McLaren,6.0,3.0,15.0,Finished,0 days 00:00:16.273000,6.0,2025,5,0,0,2,3.0,2.0,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,L NORRIS,NOR,4,McLaren,10.0,4.0,12.0,Finished,0 days 00:00:09.196000,10.0,2025,6,1,0,2,4.0,2.2,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,L NORRIS,NOR,4,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:04.630000,2.0,2025,7,0,0,2,2.0,2.4,0,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,L NORRIS,NOR,4,McLaren,4.0,2.0,18.0,Finished,0 days 00:00:06.109000,4.0,2025,8,1,0,2,2.0,2.6,0,0.0
+8,Monaco Grand Prix,2025-05-25,technical,L NORRIS,NOR,4,McLaren,1.0,1.0,25.0,Finished,0 days 01:40:33.843000,1.0,2025,9,2,0,2,1.0,2.6,0,0.0
+9,Spanish Grand Prix,2025-06-01,balanced,L NORRIS,NOR,4,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:02.471000,2.0,2025,10,1,0,2,2.0,2.4,0,0.0
+10,Canadian Grand Prix,2025-06-15,balanced,L NORRIS,NOR,4,McLaren,7.0,18.0,0.0,Retired,,7.0,2025,11,1,0,2,18.0,2.2,1,0.0
+11,Austrian Grand Prix,2025-06-29,balanced,L NORRIS,NOR,4,McLaren,1.0,1.0,25.0,Finished,0 days 01:23:47.693000,1.0,2025,12,1,0,2,1.0,5.0,0,0.09090909090909091
+12,British Grand Prix,2025-07-06,balanced,L NORRIS,NOR,4,McLaren,3.0,1.0,25.0,Finished,0 days 01:37:15.735000,3.0,2025,13,1,0,2,1.0,4.8,0,0.08333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,L NORRIS,NOR,4,McLaren,1.0,2.0,18.0,Finished,0 days 00:00:03.415000,1.0,2025,14,1,0,2,2.0,4.6,0,0.07692307692307693
+14,Hungarian Grand Prix,2025-08-03,balanced,L NORRIS,NOR,4,McLaren,3.0,1.0,25.0,Finished,0 days 01:35:21.231000,3.0,2025,15,1,0,2,1.0,4.8,0,0.07142857142857142
+15,Dutch Grand Prix,2025-08-31,balanced,L NORRIS,NOR,4,McLaren,2.0,18.0,0.0,Retired,,2.0,2025,16,1,0,2,18.0,4.6,1,0.06666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,L NORRIS,NOR,4,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:19.207000,2.0,2025,17,1,0,2,2.0,4.6,0,0.125
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,L NORRIS,NOR,4,McLaren,7.0,7.0,6.0,Finished,0 days 00:00:34.227000,7.0,2025,18,0,0,2,7.0,4.8,0,0.11764705882352941
+18,Singapore Grand Prix,2025-10-05,technical,L NORRIS,NOR,4,McLaren,5.0,3.0,15.0,Finished,0 days 00:00:06.066000,5.0,2025,19,2,0,2,3.0,6.0,0,0.1111111111111111
+19,United States Grand Prix,2025-10-19,balanced,L NORRIS,NOR,4,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:07.959000,2.0,2025,20,1,0,2,2.0,6.2,0,0.10526315789473684
+20,Mexico City Grand Prix,2025-10-26,balanced,L NORRIS,NOR,4,McLaren,1.0,1.0,25.0,Finished,0 days 01:37:58.574000,1.0,2025,21,1,0,2,1.0,6.4,0,0.1
+21,São Paulo Grand Prix,2025-11-09,balanced,L NORRIS,NOR,4,McLaren,1.0,1.0,25.0,Finished,0 days 01:32:01.596000,1.0,2025,22,1,0,2,1.0,3.0,0,0.09523809523809523
+22,Las Vegas Grand Prix,2025-11-22,balanced,L NORRIS,NOR,4,McLaren,1.0,19.0,0.0,Disqualified,,1.0,2025,23,1,0,2,19.0,2.8,1,0.09090909090909091
+23,Qatar Grand Prix,2025-11-30,high_speed,L NORRIS,NOR,4,McLaren,2.0,4.0,12.0,Finished,0 days 00:00:23.315000,2.0,2025,24,0,0,2,4.0,5.2,0,0.13043478260869565
+0,Pre-Season Testing,2025-02-28,balanced,L STROLL,STR,18,Aston Martin,15.0,13.0,0.0,Lapped,0 days 00:00:24.490000,15.0,2025,1,1,2,12,13.0,11.545454545454543,1,0.5217391304347826
+1,Australian Grand Prix,2025-03-16,balanced,L STROLL,STR,18,Aston Martin,13.0,6.0,8.0,Finished,0 days 00:00:17.413000,13.0,2025,2,1,2,12,6.0,13.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,L STROLL,STR,18,Aston Martin,14.0,9.0,2.0,Finished,0 days 00:01:10.204000,14.0,2025,3,1,2,12,9.0,9.5,0,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,L STROLL,STR,18,Aston Martin,20.0,20.0,0.0,Lapped,0 days 00:00:12.929000,20.0,2025,4,1,2,12,20.0,9.333333333333334,1,0.3333333333333333
+4,Bahrain Grand Prix,2025-04-13,high_speed,L STROLL,STR,18,Aston Martin,19.0,17.0,0.0,Finished,0 days 00:01:05.489000,19.0,2025,5,0,2,12,17.0,12.0,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,L STROLL,STR,18,Aston Martin,16.0,16.0,0.0,Lapped,0 days 00:00:05.527000,16.0,2025,6,1,2,12,16.0,13.0,1,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,L STROLL,STR,18,Aston Martin,18.0,16.0,0.0,Lapped,0 days 00:00:25.162000,19.0,2025,7,0,2,12,16.0,13.6,1,0.5
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,L STROLL,STR,18,Aston Martin,8.0,15.0,0.0,Finished,0 days 00:00:32.993000,8.0,2025,8,1,2,12,15.0,15.6,0,0.5714285714285714
+8,Monaco Grand Prix,2025-05-25,technical,L STROLL,STR,18,Aston Martin,19.0,15.0,0.0,Lapped,0 days 00:01:10.395000,19.0,2025,9,2,2,12,15.0,16.8,1,0.5
+10,Canadian Grand Prix,2025-06-15,balanced,L STROLL,STR,18,Aston Martin,17.0,17.0,0.0,Lapped,0 days 00:00:09.063000,18.0,2025,11,1,2,12,17.0,15.8,1,0.5555555555555556
+11,Austrian Grand Prix,2025-06-29,balanced,L STROLL,STR,18,Aston Martin,16.0,14.0,0.0,Lapped,0 days 00:00:34.462000,16.0,2025,12,1,2,12,14.0,15.8,1,0.6
+12,British Grand Prix,2025-07-06,balanced,L STROLL,STR,18,Aston Martin,17.0,7.0,6.0,Finished,0 days 00:01:00.603000,18.0,2025,13,1,2,12,7.0,15.4,0,0.6363636363636364
+13,Belgian Grand Prix,2025-07-27,balanced,L STROLL,STR,18,Aston Martin,16.0,14.0,0.0,Finished,0 days 00:01:19.831000,20.0,2025,14,1,2,12,14.0,13.6,0,0.5833333333333334
+14,Hungarian Grand Prix,2025-08-03,balanced,L STROLL,STR,18,Aston Martin,6.0,7.0,6.0,Finished,0 days 00:01:08.174000,6.0,2025,15,1,2,12,7.0,13.4,0,0.5384615384615384
+15,Dutch Grand Prix,2025-08-31,balanced,L STROLL,STR,18,Aston Martin,19.0,7.0,6.0,Finished,0 days 00:00:09.497000,20.0,2025,16,1,2,12,7.0,11.8,0,0.5
+16,Italian Grand Prix,2025-09-07,balanced,L STROLL,STR,18,Aston Martin,16.0,18.0,0.0,Lapped,0 days 00:00:09.301000,17.0,2025,17,1,2,12,18.0,9.8,1,0.4666666666666667
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,L STROLL,STR,18,Aston Martin,14.0,17.0,0.0,Finished,0 days 00:01:36.392000,14.0,2025,18,0,2,12,17.0,10.6,0,0.5
+18,Singapore Grand Prix,2025-10-05,technical,L STROLL,STR,18,Aston Martin,15.0,13.0,0.0,Lapped,0 days 00:00:24.490000,15.0,2025,19,2,2,12,13.0,12.6,1,0.47058823529411764
+19,United States Grand Prix,2025-10-19,balanced,L STROLL,STR,18,Aston Martin,19.0,12.0,0.0,Finished,0 days 00:01:14.778000,18.0,2025,20,1,2,12,12.0,12.4,0,0.5
+20,Mexico City Grand Prix,2025-10-26,balanced,L STROLL,STR,18,Aston Martin,19.0,14.0,0.0,Lapped,0 days 00:00:07.035000,19.0,2025,21,1,2,12,14.0,13.4,1,0.47368421052631576
+21,São Paulo Grand Prix,2025-11-09,balanced,L STROLL,STR,18,Aston Martin,14.0,16.0,0.0,Finished,0 days 00:00:58.247000,14.0,2025,22,1,2,12,16.0,14.8,0,0.5
+22,Las Vegas Grand Prix,2025-11-22,balanced,L STROLL,STR,18,Aston Martin,12.0,18.0,0.0,Retired,,12.0,2025,23,1,2,12,18.0,14.4,1,0.47619047619047616
+23,Qatar Grand Prix,2025-11-30,high_speed,L STROLL,STR,18,Aston Martin,18.0,17.0,0.0,Retired,,19.0,2025,24,0,2,12,17.0,14.6,1,0.5
+0,Pre-Season Testing,2025-02-28,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:05.430000,2.0,2025,1,1,0,1,2.0,3.0869565217391304,0,0.0416666666666666
+1,Australian Grand Prix,2025-03-16,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,3.0,2.0,18.0,Finished,0 days 00:00:00.895000,3.0,2025,2,1,0,1,2.0,2.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,4.0,4.0,12.0,Finished,0 days 00:00:16.656000,4.0,2025,3,1,0,1,4.0,2.0,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:22:06.983000,1.0,2025,4,1,0,1,1.0,2.6666666666666665,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,M VERSTAPPEN,VER,1,Red Bull Racing,7.0,6.0,8.0,Finished,0 days 00:00:34.395000,7.0,2025,5,0,0,1,6.0,2.25,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,2.0,18.0,Finished,0 days 00:00:02.843000,1.0,2025,6,1,0,1,2.0,3.0,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,4.0,12.0,Finished,0 days 00:00:39.956000,1.0,2025,7,0,0,1,4.0,3.0,0,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,2.0,1.0,25.0,Finished,0 days 01:31:33.199000,2.0,2025,8,1,0,1,1.0,3.4,0,0.0
+8,Monaco Grand Prix,2025-05-25,technical,M VERSTAPPEN,VER,1,Red Bull Racing,4.0,4.0,12.0,Finished,0 days 00:00:20.572000,5.0,2025,9,2,0,1,4.0,2.8,0,0.0
+9,Spanish Grand Prix,2025-06-01,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,3.0,10.0,1.0,Finished,0 days 00:00:21.826000,3.0,2025,10,1,0,1,10.0,3.4,0,0.0
+10,Canadian Grand Prix,2025-06-15,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:00.228000,2.0,2025,11,1,0,1,2.0,4.2,0,0.0
+11,Austrian Grand Prix,2025-06-29,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,7.0,18.0,0.0,Retired,,7.0,2025,12,1,0,1,18.0,4.2,1,0.0
+12,British Grand Prix,2025-07-06,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,5.0,10.0,Finished,0 days 00:00:56.781000,1.0,2025,13,1,0,1,5.0,7.0,0,0.08333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,4.0,4.0,12.0,Finished,0 days 00:00:21.731000,4.0,2025,14,1,0,1,4.0,7.8,0,0.07692307692307693
+14,Hungarian Grand Prix,2025-08-03,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,8.0,9.0,2.0,Finished,0 days 00:01:12.645000,8.0,2025,15,1,0,1,9.0,7.8,0,0.07142857142857142
+15,Dutch Grand Prix,2025-08-31,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,3.0,2.0,18.0,Finished,0 days 00:00:01.271000,3.0,2025,16,1,0,1,2.0,7.6,0,0.06666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:13:24.325000,1.0,2025,17,1,0,1,1.0,7.6,0,0.0625
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:33:26.408000,1.0,2025,18,0,0,1,1.0,4.2,0,0.058823529411764705
+18,Singapore Grand Prix,2025-10-05,technical,M VERSTAPPEN,VER,1,Red Bull Racing,2.0,2.0,18.0,Finished,0 days 00:00:05.430000,2.0,2025,19,2,0,1,2.0,3.4,0,0.05555555555555555
+19,United States Grand Prix,2025-10-19,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,1.0,1.0,25.0,Finished,0 days 01:34:00.161000,1.0,2025,20,1,0,1,1.0,3.0,0,0.05263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,5.0,3.0,15.0,Finished,0 days 00:00:31.049000,5.0,2025,21,1,0,1,3.0,1.4,0,0.05
+21,São Paulo Grand Prix,2025-11-09,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,19.0,3.0,15.0,Finished,0 days 00:00:10.750000,16.0,2025,22,1,0,1,3.0,1.6,0,0.047619047619047616
+22,Las Vegas Grand Prix,2025-11-22,balanced,M VERSTAPPEN,VER,1,Red Bull Racing,2.0,1.0,25.0,Finished,0 days 01:21:08.429000,2.0,2025,23,1,0,1,1.0,2.0,0,0.045454545454545456
+23,Qatar Grand Prix,2025-11-30,high_speed,M VERSTAPPEN,VER,1,Red Bull Racing,3.0,1.0,25.0,Finished,0 days 01:24:38.241000,3.0,2025,24,0,0,1,1.0,2.0,0,0.043478260869565216
+0,Pre-Season Testing,2025-02-28,balanced,N HULKENBERG,HUL,27,Kick Sauber,11.0,20.0,0.0,Lapped,0 days 00:00:49.040000,11.0,2025,1,1,2,19,20.0,9.75,1,0.5
+1,Australian Grand Prix,2025-03-16,balanced,N HULKENBERG,HUL,27,Kick Sauber,17.0,7.0,6.0,Finished,0 days 00:00:18.423000,17.0,2025,2,1,2,19,7.0,20.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,N HULKENBERG,HUL,27,Kick Sauber,12.0,15.0,0.0,Lapped,0 days 00:00:20.226000,12.0,2025,3,1,2,19,15.0,13.5,1,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,N HULKENBERG,HUL,27,Kick Sauber,16.0,16.0,0.0,Finished,0 days 00:01:21.957000,16.0,2025,4,1,2,19,16.0,14.0,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,N HULKENBERG,HUL,27,Kick Sauber,16.0,20.0,0.0,Disqualified,,16.0,2025,5,0,2,19,20.0,14.5,1,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,N HULKENBERG,HUL,27,Kick Sauber,18.0,15.0,0.0,Lapped,0 days 00:00:04.609000,18.0,2025,6,1,2,19,15.0,15.6,1,0.6
+6,Miami Grand Prix,2025-05-04,high_speed,N HULKENBERG,HUL,27,Kick Sauber,16.0,14.0,0.0,Lapped,0 days 00:00:01.155000,16.0,2025,7,0,2,19,14.0,14.6,1,0.6666666666666666
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,N HULKENBERG,HUL,27,Kick Sauber,17.0,12.0,0.0,Finished,0 days 00:00:30.296000,17.0,2025,8,1,2,19,12.0,16.0,0,0.7142857142857143
+8,Monaco Grand Prix,2025-05-25,technical,N HULKENBERG,HUL,27,Kick Sauber,13.0,16.0,0.0,Lapped,0 days 00:01:11.544000,13.0,2025,9,2,2,19,16.0,15.4,1,0.625
+9,Spanish Grand Prix,2025-06-01,balanced,N HULKENBERG,HUL,27,Kick Sauber,15.0,5.0,10.0,Finished,0 days 00:00:13.648000,16.0,2025,10,1,2,19,5.0,15.4,0,0.6666666666666666
+10,Canadian Grand Prix,2025-06-15,balanced,N HULKENBERG,HUL,27,Kick Sauber,11.0,8.0,4.0,Finished,0 days 00:00:15.364000,13.0,2025,11,1,2,19,8.0,12.4,0,0.6
+11,Austrian Grand Prix,2025-06-29,balanced,N HULKENBERG,HUL,27,Kick Sauber,20.0,9.0,2.0,Lapped,0 days 00:00:07.720000,20.0,2025,12,1,2,19,9.0,11.0,1,0.5454545454545454
+12,British Grand Prix,2025-07-06,balanced,N HULKENBERG,HUL,27,Kick Sauber,19.0,3.0,15.0,Finished,0 days 00:00:34.742000,19.0,2025,13,1,2,19,3.0,10.0,0,0.5833333333333334
+13,Belgian Grand Prix,2025-07-27,balanced,N HULKENBERG,HUL,27,Kick Sauber,14.0,12.0,0.0,Finished,0 days 00:01:13.628000,14.0,2025,14,1,2,19,12.0,8.2,0,0.5384615384615384
+14,Hungarian Grand Prix,2025-08-03,balanced,N HULKENBERG,HUL,27,Kick Sauber,18.0,13.0,0.0,Lapped,0 days 00:00:31.268000,19.0,2025,15,1,2,19,13.0,7.4,1,0.5
+15,Dutch Grand Prix,2025-08-31,balanced,N HULKENBERG,HUL,27,Kick Sauber,17.0,14.0,0.0,Finished,0 days 00:00:19.725000,17.0,2025,16,1,2,19,14.0,9.0,0,0.5333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,N HULKENBERG,HUL,27,Kick Sauber,12.0,20.0,0.0,Did not start,,12.0,2025,17,1,2,19,20.0,10.2,1,0.5
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,N HULKENBERG,HUL,27,Kick Sauber,17.0,16.0,0.0,Finished,0 days 00:01:20.237000,17.0,2025,18,0,2,19,16.0,12.4,0,0.5294117647058824
+18,Singapore Grand Prix,2025-10-05,technical,N HULKENBERG,HUL,27,Kick Sauber,11.0,20.0,0.0,Lapped,0 days 00:00:49.040000,11.0,2025,19,2,2,19,20.0,15.0,1,0.5
+19,United States Grand Prix,2025-10-19,balanced,N HULKENBERG,HUL,27,Kick Sauber,11.0,8.0,4.0,Finished,0 days 00:00:57.249000,11.0,2025,20,1,2,19,8.0,16.6,0,0.5263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,N HULKENBERG,HUL,27,Kick Sauber,13.0,19.0,0.0,Retired,,13.0,2025,21,1,2,19,19.0,15.6,1,0.5
+21,São Paulo Grand Prix,2025-11-09,balanced,N HULKENBERG,HUL,27,Kick Sauber,10.0,9.0,2.0,Finished,0 days 00:00:53.324000,10.0,2025,22,1,2,19,9.0,16.6,0,0.5238095238095238
+22,Las Vegas Grand Prix,2025-11-22,balanced,N HULKENBERG,HUL,27,Kick Sauber,11.0,7.0,6.0,Finished,0 days 00:00:51.134000,11.0,2025,23,1,2,19,7.0,14.4,0,0.5
+23,Qatar Grand Prix,2025-11-30,high_speed,N HULKENBERG,HUL,27,Kick Sauber,11.0,20.0,0.0,Retired,,11.0,2025,24,0,2,19,20.0,12.6,1,0.4782608695652174
+0,Pre-Season Testing,2025-02-28,balanced,O BEARMAN,BEA,87,Haas F1 Team,9.0,9.0,2.0,Finished,0 days 00:01:33.527000,9.0,2025,1,1,2,8,9.0,10.444444444444445,0,0.25
+1,Australian Grand Prix,2025-03-16,balanced,O BEARMAN,BEA,87,Haas F1 Team,20.0,14.0,0.0,Finished,0 days 00:00:40.351000,20.0,2025,2,1,2,8,14.0,9.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,O BEARMAN,BEA,87,Haas F1 Team,17.0,8.0,4.0,Finished,0 days 00:01:01.303000,17.0,2025,3,1,2,8,8.0,11.5,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,O BEARMAN,BEA,87,Haas F1 Team,10.0,10.0,1.0,Finished,0 days 00:00:54.529000,10.0,2025,4,1,2,8,10.0,10.333333333333334,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,O BEARMAN,BEA,87,Haas F1 Team,20.0,10.0,1.0,Finished,0 days 00:00:47.594000,20.0,2025,5,0,2,8,10.0,10.25,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,O BEARMAN,BEA,87,Haas F1 Team,15.0,13.0,0.0,Finished,0 days 00:01:19.194000,15.0,2025,6,1,2,8,13.0,10.2,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,O BEARMAN,BEA,87,Haas F1 Team,19.0,19.0,0.0,Retired,,20.0,2025,7,0,2,8,19.0,11.0,1,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,O BEARMAN,BEA,87,Haas F1 Team,19.0,17.0,0.0,Finished,0 days 00:00:33.808000,19.0,2025,8,1,2,8,17.0,12.0,0,0.14285714285714285
+8,Monaco Grand Prix,2025-05-25,technical,O BEARMAN,BEA,87,Haas F1 Team,20.0,12.0,0.0,Lapped,0 days 00:00:54.693000,17.0,2025,9,2,2,8,12.0,13.8,1,0.125
+9,Spanish Grand Prix,2025-06-01,balanced,O BEARMAN,BEA,87,Haas F1 Team,14.0,17.0,0.0,Finished,0 days 00:00:37.065000,15.0,2025,10,1,2,8,17.0,14.2,0,0.2222222222222222
+10,Canadian Grand Prix,2025-06-15,balanced,O BEARMAN,BEA,87,Haas F1 Team,13.0,11.0,0.0,Lapped,0 days 00:00:03.717000,14.0,2025,11,1,2,8,11.0,15.6,1,0.2
+11,Austrian Grand Prix,2025-06-29,balanced,O BEARMAN,BEA,87,Haas F1 Team,15.0,11.0,0.0,Lapped,0 days 00:00:24.854000,15.0,2025,12,1,2,8,11.0,15.2,1,0.2727272727272727
+12,British Grand Prix,2025-07-06,balanced,O BEARMAN,BEA,87,Haas F1 Team,18.0,11.0,0.0,Finished,0 days 00:01:12.095000,8.0,2025,13,1,2,8,11.0,13.6,0,0.3333333333333333
+13,Belgian Grand Prix,2025-07-27,balanced,O BEARMAN,BEA,87,Haas F1 Team,12.0,11.0,0.0,Finished,0 days 00:01:13.145000,12.0,2025,14,1,2,8,11.0,12.4,0,0.3076923076923077
+14,Hungarian Grand Prix,2025-08-03,balanced,O BEARMAN,BEA,87,Haas F1 Team,11.0,20.0,0.0,Retired,,11.0,2025,15,1,2,8,20.0,12.2,1,0.2857142857142857
+15,Dutch Grand Prix,2025-08-31,balanced,O BEARMAN,BEA,87,Haas F1 Team,20.0,6.0,8.0,Finished,0 days 00:00:09.044000,19.0,2025,16,1,2,8,6.0,12.8,0,0.3333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,O BEARMAN,BEA,87,Haas F1 Team,11.0,12.0,0.0,Finished,0 days 00:01:19.288000,11.0,2025,17,1,2,8,12.0,11.8,0,0.3125
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,O BEARMAN,BEA,87,Haas F1 Team,15.0,12.0,0.0,Finished,0 days 00:01:08.262000,15.0,2025,18,0,2,8,12.0,12.0,0,0.29411764705882354
+18,Singapore Grand Prix,2025-10-05,technical,O BEARMAN,BEA,87,Haas F1 Team,9.0,9.0,2.0,Finished,0 days 00:01:33.527000,9.0,2025,19,2,2,8,9.0,12.2,0,0.2777777777777778
+19,United States Grand Prix,2025-10-19,balanced,O BEARMAN,BEA,87,Haas F1 Team,8.0,9.0,2.0,Finished,0 days 00:01:04.722000,8.0,2025,20,1,2,8,9.0,11.8,0,0.2631578947368421
+20,Mexico City Grand Prix,2025-10-26,balanced,O BEARMAN,BEA,87,Haas F1 Team,9.0,4.0,12.0,Finished,0 days 00:00:40.955000,10.0,2025,21,1,2,8,4.0,9.6,0,0.25
+21,São Paulo Grand Prix,2025-11-09,balanced,O BEARMAN,BEA,87,Haas F1 Team,8.0,6.0,8.0,Finished,0 days 00:00:29.630000,8.0,2025,22,1,2,8,6.0,9.2,0,0.23809523809523808
+22,Las Vegas Grand Prix,2025-11-22,balanced,O BEARMAN,BEA,87,Haas F1 Team,14.0,10.0,1.0,Finished,0 days 00:01:10.549000,14.0,2025,23,1,2,8,10.0,8.0,0,0.22727272727272727
+23,Qatar Grand Prix,2025-11-30,high_speed,O BEARMAN,BEA,87,Haas F1 Team,13.0,19.0,0.0,Retired,,13.0,2025,24,0,2,8,19.0,7.6,1,0.21739130434782608
+0,Pre-Season Testing,2025-02-28,balanced,O PIASTRI,PIA,81,McLaren,3.0,4.0,12.0,Finished,0 days 00:00:08.146000,3.0,2025,1,1,0,3,4.0,2.863636363636364,0,0.0833333333333333
+1,Australian Grand Prix,2025-03-16,balanced,O PIASTRI,PIA,81,McLaren,2.0,9.0,2.0,Finished,0 days 00:00:20.448000,2.0,2025,2,1,0,3,9.0,4.0,0,0.0
+2,Chinese Grand Prix,2025-03-23,balanced,O PIASTRI,PIA,81,McLaren,1.0,1.0,25.0,Finished,0 days 01:30:55.026000,1.0,2025,3,1,0,3,1.0,6.5,0,0.0
+3,Japanese Grand Prix,2025-04-06,balanced,O PIASTRI,PIA,81,McLaren,3.0,3.0,15.0,Finished,0 days 00:00:02.129000,3.0,2025,4,1,0,3,3.0,4.666666666666667,0,0.0
+4,Bahrain Grand Prix,2025-04-13,high_speed,O PIASTRI,PIA,81,McLaren,1.0,1.0,25.0,Finished,0 days 01:35:39.435000,1.0,2025,5,0,0,3,1.0,4.25,0,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,O PIASTRI,PIA,81,McLaren,2.0,1.0,25.0,Finished,0 days 01:21:06.758000,2.0,2025,6,1,0,3,1.0,3.6,0,0.0
+6,Miami Grand Prix,2025-05-04,high_speed,O PIASTRI,PIA,81,McLaren,4.0,1.0,25.0,Finished,0 days 01:28:51.587000,4.0,2025,7,0,0,3,1.0,3.0,0,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,O PIASTRI,PIA,81,McLaren,1.0,3.0,15.0,Finished,0 days 00:00:12.956000,1.0,2025,8,1,0,3,3.0,1.4,0,0.0
+8,Monaco Grand Prix,2025-05-25,technical,O PIASTRI,PIA,81,McLaren,3.0,3.0,15.0,Finished,0 days 00:00:03.658000,3.0,2025,9,2,0,3,3.0,1.8,0,0.0
+9,Spanish Grand Prix,2025-06-01,balanced,O PIASTRI,PIA,81,McLaren,1.0,1.0,25.0,Finished,0 days 01:32:57.375000,1.0,2025,10,1,0,3,1.0,1.8,0,0.0
+10,Canadian Grand Prix,2025-06-15,balanced,O PIASTRI,PIA,81,McLaren,3.0,4.0,12.0,Finished,0 days 00:00:02.109000,3.0,2025,11,1,0,3,4.0,1.8,0,0.0
+11,Austrian Grand Prix,2025-06-29,balanced,O PIASTRI,PIA,81,McLaren,3.0,2.0,18.0,Finished,0 days 00:00:02.695000,3.0,2025,12,1,0,3,2.0,2.4,0,0.0
+12,British Grand Prix,2025-07-06,balanced,O PIASTRI,PIA,81,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:06.812000,2.0,2025,13,1,0,3,2.0,2.6,0,0.0
+13,Belgian Grand Prix,2025-07-27,balanced,O PIASTRI,PIA,81,McLaren,2.0,1.0,25.0,Finished,0 days 01:25:22.601000,2.0,2025,14,1,0,3,1.0,2.4,0,0.0
+14,Hungarian Grand Prix,2025-08-03,balanced,O PIASTRI,PIA,81,McLaren,2.0,2.0,18.0,Finished,0 days 00:00:00.698000,2.0,2025,15,1,0,3,2.0,2.0,0,0.0
+15,Dutch Grand Prix,2025-08-31,balanced,O PIASTRI,PIA,81,McLaren,1.0,1.0,25.0,Finished,0 days 01:38:29.849000,1.0,2025,16,1,0,3,1.0,2.2,0,0.0
+16,Italian Grand Prix,2025-09-07,balanced,O PIASTRI,PIA,81,McLaren,3.0,3.0,15.0,Finished,0 days 00:00:21.351000,3.0,2025,17,1,0,3,3.0,1.6,0,0.0
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,O PIASTRI,PIA,81,McLaren,9.0,20.0,0.0,Retired,,9.0,2025,18,0,0,3,20.0,1.8,1,0.0
+18,Singapore Grand Prix,2025-10-05,technical,O PIASTRI,PIA,81,McLaren,3.0,4.0,12.0,Finished,0 days 00:00:08.146000,3.0,2025,19,2,0,3,4.0,5.4,0,0.05555555555555555
+19,United States Grand Prix,2025-10-19,balanced,O PIASTRI,PIA,81,McLaren,6.0,5.0,10.0,Finished,0 days 00:00:29.678000,6.0,2025,20,1,0,3,5.0,6.0,0,0.05263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,O PIASTRI,PIA,81,McLaren,7.0,5.0,10.0,Finished,0 days 00:00:42.065000,8.0,2025,21,1,0,3,5.0,6.6,0,0.05
+21,São Paulo Grand Prix,2025-11-09,balanced,O PIASTRI,PIA,81,McLaren,4.0,5.0,10.0,Finished,0 days 00:00:15.749000,4.0,2025,22,1,0,3,5.0,7.4,0,0.047619047619047616
+22,Las Vegas Grand Prix,2025-11-22,balanced,O PIASTRI,PIA,81,McLaren,5.0,20.0,0.0,Disqualified,,5.0,2025,23,1,0,3,20.0,7.8,1,0.045454545454545456
+23,Qatar Grand Prix,2025-11-30,high_speed,O PIASTRI,PIA,81,McLaren,1.0,2.0,18.0,Finished,0 days 00:00:07.995000,1.0,2025,24,0,0,3,2.0,7.8,0,0.08695652173913043
+0,Pre-Season Testing,2025-02-28,balanced,P GASLY,GAS,10,Alpine,19.0,19.0,0.0,Lapped,0 days 00:00:47.461000,18.0,2025,1,1,2,18,19.0,11.0,1,0.5416666666666667
+1,Australian Grand Prix,2025-03-16,balanced,P GASLY,GAS,10,Alpine,9.0,11.0,0.0,Finished,0 days 00:00:26.502000,9.0,2025,2,1,2,18,11.0,19.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,P GASLY,GAS,10,Alpine,16.0,20.0,0.0,Disqualified,,16.0,2025,3,1,2,18,20.0,15.0,1,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,P GASLY,GAS,10,Alpine,11.0,13.0,0.0,Finished,0 days 00:01:02.122000,11.0,2025,4,1,2,18,13.0,16.666666666666668,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,P GASLY,GAS,10,Alpine,4.0,7.0,6.0,Finished,0 days 00:00:36.002000,5.0,2025,5,0,2,18,7.0,15.75,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,P GASLY,GAS,10,Alpine,9.0,20.0,0.0,Retired,,9.0,2025,6,1,2,18,20.0,14.0,1,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,P GASLY,GAS,10,Alpine,20.0,13.0,0.0,Finished,0 days 00:01:30.445000,18.0,2025,7,0,2,18,13.0,14.2,0,0.5
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,P GASLY,GAS,10,Alpine,10.0,13.0,0.0,Finished,0 days 00:00:31.424000,10.0,2025,8,1,2,18,13.0,14.6,0,0.42857142857142855
+8,Monaco Grand Prix,2025-05-25,technical,P GASLY,GAS,10,Alpine,17.0,20.0,0.0,Retired,,18.0,2025,9,2,2,18,20.0,13.2,1,0.375
+9,Spanish Grand Prix,2025-06-01,balanced,P GASLY,GAS,10,Alpine,8.0,8.0,4.0,Finished,0 days 00:00:17.882000,8.0,2025,10,1,2,18,8.0,14.6,0,0.4444444444444444
+10,Canadian Grand Prix,2025-06-15,balanced,P GASLY,GAS,10,Alpine,20.0,15.0,0.0,Lapped,0 days 00:00:07.950000,20.0,2025,11,1,2,18,15.0,14.8,1,0.4
+11,Austrian Grand Prix,2025-06-29,balanced,P GASLY,GAS,10,Alpine,10.0,13.0,0.0,Lapped,0 days 00:00:33.055000,10.0,2025,12,1,2,18,13.0,13.8,1,0.45454545454545453
+12,British Grand Prix,2025-07-06,balanced,P GASLY,GAS,10,Alpine,8.0,6.0,8.0,Finished,0 days 00:00:59.857000,10.0,2025,13,1,2,18,6.0,13.8,0,0.5
+13,Belgian Grand Prix,2025-07-27,balanced,P GASLY,GAS,10,Alpine,13.0,10.0,1.0,Finished,0 days 00:01:12.714000,13.0,2025,14,1,2,18,10.0,12.4,0,0.46153846153846156
+14,Hungarian Grand Prix,2025-08-03,balanced,P GASLY,GAS,10,Alpine,16.0,19.0,0.0,Lapped,0 days 00:00:56.344000,17.0,2025,15,1,2,18,19.0,10.4,1,0.42857142857142855
+15,Dutch Grand Prix,2025-08-31,balanced,P GASLY,GAS,10,Alpine,14.0,17.0,0.0,Finished,0 days 00:00:23.629000,14.0,2025,16,1,2,18,17.0,12.6,0,0.4666666666666667
+16,Italian Grand Prix,2025-09-07,balanced,P GASLY,GAS,10,Alpine,20.0,16.0,0.0,Lapped,0 days 00:00:05.837000,19.0,2025,17,1,2,18,16.0,13.0,1,0.4375
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,P GASLY,GAS,10,Alpine,18.0,18.0,0.0,Lapped,0 days 00:00:03.865000,18.0,2025,18,0,2,18,18.0,13.6,1,0.47058823529411764
+18,Singapore Grand Prix,2025-10-05,technical,P GASLY,GAS,10,Alpine,19.0,19.0,0.0,Lapped,0 days 00:00:47.461000,18.0,2025,19,2,2,18,19.0,16.0,1,0.5
+19,United States Grand Prix,2025-10-19,balanced,P GASLY,GAS,10,Alpine,14.0,19.0,0.0,Lapped,0 days 00:00:06.155000,14.0,2025,20,1,2,18,19.0,17.8,1,0.5263157894736842
+20,Mexico City Grand Prix,2025-10-26,balanced,P GASLY,GAS,10,Alpine,18.0,15.0,0.0,Lapped,0 days 00:00:44.080000,18.0,2025,21,1,2,18,15.0,17.8,1,0.55
+21,São Paulo Grand Prix,2025-11-09,balanced,P GASLY,GAS,10,Alpine,9.0,10.0,1.0,Finished,0 days 00:00:53.914000,9.0,2025,22,1,2,18,10.0,17.4,0,0.5714285714285714
+22,Las Vegas Grand Prix,2025-11-22,balanced,P GASLY,GAS,10,Alpine,10.0,13.0,0.0,Finished,0 days 00:01:31.702000,10.0,2025,23,1,2,18,13.0,16.2,0,0.5454545454545454
+23,Qatar Grand Prix,2025-11-30,high_speed,P GASLY,GAS,10,Alpine,9.0,16.0,0.0,Lapped,0 days 00:00:04.941000,9.0,2025,24,0,2,18,16.0,15.2,1,0.5217391304347826
+0,Pre-Season Testing,2025-02-28,balanced,Y TSUNODA,TSU,22,Red Bull Racing,13.0,12.0,0.0,Lapped,0 days 00:00:19.269000,13.0,2025,1,1,0,11,12.0,10.933333333333334,1,0.375
+1,Australian Grand Prix,2025-03-16,balanced,Y TSUNODA,TSU,22,Racing Bulls,5.0,12.0,0.0,Finished,0 days 00:00:29.884000,5.0,2025,2,1,2,11,12.0,12.0,0,1.0
+2,Chinese Grand Prix,2025-03-23,balanced,Y TSUNODA,TSU,22,Racing Bulls,9.0,16.0,0.0,Lapped,0 days 00:00:23.511000,9.0,2025,3,1,2,11,16.0,12.0,1,0.5
+3,Japanese Grand Prix,2025-04-06,balanced,Y TSUNODA,TSU,22,Red Bull Racing,14.0,12.0,0.0,Finished,0 days 00:00:58.401000,15.0,2025,4,1,0,11,12.0,13.333333333333334,0,0.6666666666666666
+4,Bahrain Grand Prix,2025-04-13,high_speed,Y TSUNODA,TSU,22,Red Bull Racing,10.0,9.0,2.0,Finished,0 days 00:00:45.061000,10.0,2025,5,0,0,11,9.0,13.0,0,0.5
+5,Saudi Arabian Grand Prix,2025-04-20,balanced,Y TSUNODA,TSU,22,Red Bull Racing,8.0,19.0,0.0,Retired,,8.0,2025,6,1,0,11,19.0,12.2,1,0.4
+6,Miami Grand Prix,2025-05-04,high_speed,Y TSUNODA,TSU,22,Red Bull Racing,10.0,10.0,1.0,Finished,0 days 00:01:14.434000,10.0,2025,7,0,0,11,10.0,13.6,0,0.5
+7,Emilia Romagna Grand Prix,2025-05-18,balanced,Y TSUNODA,TSU,22,Red Bull Racing,20.0,10.0,1.0,Finished,0 days 00:00:26.446000,20.0,2025,8,1,0,11,10.0,13.2,0,0.42857142857142855
+8,Monaco Grand Prix,2025-05-25,technical,Y TSUNODA,TSU,22,Red Bull Racing,12.0,17.0,0.0,Lapped,0 days 00:01:11.849000,12.0,2025,9,2,0,11,17.0,12.0,1,0.375
+9,Spanish Grand Prix,2025-06-01,balanced,Y TSUNODA,TSU,22,Red Bull Racing,19.0,13.0,0.0,Finished,0 days 00:00:28.822000,20.0,2025,10,1,0,11,13.0,13.0,0,0.4444444444444444
+10,Canadian Grand Prix,2025-06-15,balanced,Y TSUNODA,TSU,22,Red Bull Racing,18.0,12.0,0.0,Lapped,0 days 00:00:05.456000,11.0,2025,11,1,0,11,12.0,13.8,1,0.4
+11,Austrian Grand Prix,2025-06-29,balanced,Y TSUNODA,TSU,22,Red Bull Racing,18.0,16.0,0.0,Lapped,0 days 00:00:02.979000,18.0,2025,12,1,0,11,16.0,12.4,1,0.45454545454545453
+12,British Grand Prix,2025-07-06,balanced,Y TSUNODA,TSU,22,Red Bull Racing,11.0,15.0,0.0,Lapped,0 days 00:00:32.250000,12.0,2025,13,1,0,11,15.0,13.6,1,0.5
+13,Belgian Grand Prix,2025-07-27,balanced,Y TSUNODA,TSU,22,Red Bull Racing,7.0,13.0,0.0,Finished,0 days 00:01:15.395000,7.0,2025,14,1,0,11,13.0,14.6,0,0.5384615384615384
+14,Hungarian Grand Prix,2025-08-03,balanced,Y TSUNODA,TSU,22,Red Bull Racing,20.0,17.0,0.0,Lapped,0 days 00:00:46.943000,16.0,2025,15,1,0,11,17.0,13.8,1,0.5
+15,Dutch Grand Prix,2025-08-31,balanced,Y TSUNODA,TSU,22,Red Bull Racing,12.0,9.0,2.0,Finished,0 days 00:00:13.597000,12.0,2025,16,1,0,11,9.0,14.6,0,0.5333333333333333
+16,Italian Grand Prix,2025-09-07,balanced,Y TSUNODA,TSU,22,Red Bull Racing,9.0,13.0,0.0,Finished,0 days 00:01:20.701000,10.0,2025,17,1,0,11,13.0,14.0,0,0.5
+17,Azerbaijan Grand Prix,2025-09-21,high_speed,Y TSUNODA,TSU,22,Red Bull Racing,6.0,6.0,8.0,Finished,0 days 00:00:33.808000,6.0,2025,18,0,0,11,6.0,13.4,0,0.47058823529411764
+18,Singapore Grand Prix,2025-10-05,technical,Y TSUNODA,TSU,22,Red Bull Racing,13.0,12.0,0.0,Lapped,0 days 00:00:19.269000,13.0,2025,19,2,0,11,12.0,11.6,1,0.4444444444444444
+19,United States Grand Prix,2025-10-19,balanced,Y TSUNODA,TSU,22,Red Bull Racing,13.0,7.0,6.0,Finished,0 days 00:00:52.714000,13.0,2025,20,1,0,11,7.0,11.4,0,0.47368421052631576
+20,Mexico City Grand Prix,2025-10-26,balanced,Y TSUNODA,TSU,22,Red Bull Racing,10.0,11.0,0.0,Finished,0 days 00:01:19.048000,11.0,2025,21,1,0,11,11.0,9.4,0,0.45
+21,São Paulo Grand Prix,2025-11-09,balanced,Y TSUNODA,TSU,22,Red Bull Racing,17.0,17.0,0.0,Finished,0 days 00:01:09.176000,19.0,2025,22,1,0,11,17.0,9.8,0,0.42857142857142855
+22,Las Vegas Grand Prix,2025-11-22,balanced,Y TSUNODA,TSU,22,Red Bull Racing,20.0,12.0,0.0,Finished,0 days 00:01:26.974000,19.0,2025,23,1,0,11,12.0,10.6,0,0.4090909090909091
+23,Qatar Grand Prix,2025-11-30,high_speed,Y TSUNODA,TSU,22,Red Bull Racing,15.0,10.0,1.0,Finished,0 days 00:01:01.770000,16.0,2025,24,0,0,11,10.0,11.8,0,0.391304347826087
