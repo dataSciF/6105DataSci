@@ -124,6 +124,33 @@ Predicted Abu Dhabi GP Top 5:
 
 The strongest result here was the podium group. The model identified the correct Top 3 drivers, even though exact ordering still had uncertainty.
 
+### Abu Dhabi Detailed Prediction Table
+
+The full detailed output is saved in `result/abu_dhabi_predict_menka.csv`.
+
+| Predicted | Actual | Diff | Driver | Mean | Mode | P Win | P Top 3 | P Top 10 |
+| :---: | :---: | ---: | --- | ---: | ---: | ---: | ---: | ---: |
+| 1 | 1 | 0 | M VERSTAPPEN | 3.42 | 1 | 24.0% | 63.4% | 96.2% |
+| 2 | 3 | -1 | L NORRIS | 4.33 | 1 | 18.6% | 53.2% | 91.9% |
+| 3 | 2 | 1 | O PIASTRI | 5.29 | 2 | 14.6% | 43.6% | 86.8% |
+| 4 | 5 | -1 | G RUSSELL | 6.28 | 3 | 11.2% | 34.7% | 81.0% |
+| 5 | 4 | 1 | C LECLERC | 7.29 | 5 | 8.4% | 26.7% | 74.6% |
+| 6 | 6 | 0 | F ALONSO | 8.21 | 5 | 6.2% | 20.1% | 68.2% |
+| 7 | 17 | -10 | I HADJAR | 10.29 | 6 | 2.5% | 8.6% | 52.5% |
+| 8 | 14 | -6 | Y TSUNODA | 10.82 | 7 | 1.9% | 6.5% | 48.4% |
+| 9 | 13 | -4 | C SAINZ | 11.78 | 9 | 1.0% | 3.6% | 40.6% |
+| 10 | 11 | -1 | G BORTOLETO | 9.01 | 10 | 4.6% | 15.0% | 62.5% |
+| 11 | 7 | 4 | E OCON | 9.70 | 10 | 3.4% | 11.4% | 57.2% |
+| 12 | 18 | -6 | L LAWSON | 12.23 | 13 | 0.7% | 2.7% | 37.0% |
+| 13 | 15 | -2 | K ANTONELLI | 12.67 | 13 | 0.5% | 1.9% | 33.6% |
+| 14 | 12 | 2 | O BEARMAN | 11.32 | 14 | 1.4% | 4.9% | 44.3% |
+| 15 | 10 | 5 | L STROLL | 13.10 | 15 | 0.4% | 1.4% | 30.3% |
+| 16 | 8 | 8 | L HAMILTON | 13.58 | 18 | 0.3% | 1.0% | 26.8% |
+| 17 | 16 | 1 | A ALBON | 14.10 | 19 | 0.2% | 0.6% | 23.2% |
+| 18 | 9 | 9 | N HULKENBERG | 14.69 | 20 | 0.1% | 0.4% | 19.5% |
+| 19 | 19 | 0 | P GASLY | 15.42 | 20 | 0.0% | 0.2% | 15.3% |
+| 20 | 20 | 0 | F COLAPINTO | 16.47 | 20 | 0.0% | 0.1% | 10.1% |
+
 ### Championship Projection
 
 Using the Abu Dhabi simulation result, the projected 2025 championship Top 3 were:
@@ -138,25 +165,25 @@ Using the Abu Dhabi simulation result, the projected 2025 championship Top 3 wer
 
 ### Data Exploration
 
-![F1 data exploration](f1_data_exploration.png)
+![F1 data exploration](assets/f1_data_exploration.png)
 
 This figure shows the relationship between qualifying and race result, average constructor performance, DNF rate by constructor, and the track-type mix in the dataset.
 
 ### Team Tier Priors
 
-![Team tier distributions](team_tiers.png)
+![Team tier distributions](assets/team_tiers.png)
 
 This figure shows how team tiers were used to guide the team-strength prior. It is a simple prior, but it helps the model start with a reasonable view of the field.
 
 ### Qatar GP Position Distribution
 
-![Qatar GP predicted position distribution](qatar_position_distribution.png)
+![Qatar GP predicted position distribution](assets/qatar_position_distribution.png)
 
 The dark points show the final predicted rankings. The vertical ranges show uncertainty from the simulation.
 
 ### Abu Dhabi GP Position Distribution
 
-![Abu Dhabi GP predicted position distribution](abu_dhabi_position_distribution.png)
+![Abu Dhabi GP predicted position distribution](assets/abu_dhabi_position_distribution.png)
 
 This figure shows the simulated finishing range for each Abu Dhabi GP driver.
 
@@ -164,16 +191,14 @@ This figure shows the simulated finishing range for each Abu Dhabi GP driver.
 
 ```text
 .
+|-- README.md
 |-- F1DataGet.ipynb
 |-- F1ModelBuild.ipynb
 |-- F1ModelExplain.ipynb
 |-- F1MTKL.ipynb
 |-- F1 Predict Qatar.ipynb
 |-- F1 Predict ABU DHABI.ipynb
-|-- F1 Final predict.ipynb
-|-- model build.ipynb
-|-- data get.ipynb
-|-- data clean.ipynb
+|-- test.py
 |-- data/
 |   |-- f1_multi_season_results.csv
 |   |-- f1_race_data_cleaned.csv
@@ -181,16 +206,36 @@ This figure shows the simulated finishing range for each Abu Dhabi GP driver.
 |   |-- drivers_info.csv
 |   |-- teams_info.csv
 |   |-- qatar_ready.csv
-|   |-- qatar_predict_menka.csv
 |   |-- abu_dhabi_ready.csv
-|   |-- abu_dhabi_predict_menka.csv
-|   `-- final_2025_championship_prediction.csv
+|   `-- legacy/
 |-- model/
 |   `-- f1_trace.nc
-|-- f1_data_exploration.png
-|-- team_tiers.png
-|-- qatar_position_distribution.png
-`-- abu_dhabi_position_distribution.png
+|-- result/
+|   |-- qatar_predict.csv
+|   |-- qatar_predict_menka.csv
+|   |-- qatar_final_menka.csv
+|   |-- qatar_final_prediction_top1.csv
+|   |-- qatar_final_prediction_top5.csv
+|   |-- qatar_final_prediction_top10.csv
+|   |-- qatar_final_prediction_balanced.csv
+|   |-- abu_dhabi_predict_menka.csv
+|   |-- final_2025_championship_prediction.csv
+|   |-- final_2025_championship_with_team_orders.csv
+|   |-- historical_predictions.csv
+|   |-- historical_predictions/
+|   |-- optimal_fusion_weights.csv
+|   |-- qatar_prediction_comparison.csv
+|   |-- driver_strategy_comparison.csv
+|   `-- strategy_summary.csv
+|-- assets/
+|   |-- f1_data_exploration.png
+|   |-- team_tiers.png
+|   |-- qatar_position_distribution.png
+|   |-- abu_dhabi_position_distribution.png
+|   |-- qatar_prediction_evaluation.png
+|   `-- strategy_comparison.png
+`-- archive/
+    `-- legacy_notebooks/
 ```
 
 ## Main Notebooks
@@ -203,7 +248,8 @@ This figure shows the simulated finishing range for each Abu Dhabi GP driver.
 | `F1MTKL.ipynb` | Tests ranking logic, strategy weighting, and Qatar validation. |
 | `F1 Predict Qatar.ipynb` | Runs and evaluates Qatar GP predictions. |
 | `F1 Predict ABU DHABI.ipynb` | Runs Abu Dhabi GP predictions and championship projection. |
-| `model build.ipynb` | Earlier modeling experiment. |
+
+Earlier experiments are preserved under `archive/legacy_notebooks/` so the root folder only contains the notebooks used by the current workflow.
 
 ## Data Artifacts
 
@@ -212,12 +258,43 @@ This figure shows the simulated finishing range for each Abu Dhabi GP driver.
 | `data/f1_multi_season_results.csv` | Aggregated FastF1 race-level data. |
 | `data/f1_race_data_cleaned.csv` | Cleaned model-ready race data. |
 | `data/driver_features.csv` | Driver-level features, including points, average position, recent form, track-type averages, and DNF rate. |
+| `data/drivers_info.csv` | Driver standings and current team information. |
 | `data/teams_info.csv` | Constructor points, rank, and tier information. |
 | `data/qatar_ready.csv` | Qatar GP prediction input. |
-| `data/qatar_predict_menka.csv` | Qatar GP simulation output. |
 | `data/abu_dhabi_ready.csv` | Abu Dhabi GP prediction input. |
-| `data/abu_dhabi_predict_menka.csv` | Abu Dhabi GP simulation output. |
+| `data/legacy/` | Older root-level data artifacts kept for reference, not used by the current main pipeline. |
 | `model/f1_trace.nc` | Saved ArviZ NetCDF posterior trace. |
+
+## Result Artifacts
+
+| File | Description |
+| --- | --- |
+| `result/qatar_predict_menka.csv` | Qatar GP simulation output. |
+| `result/qatar_final_menka.csv` | Final Qatar GP ranking output. |
+| `result/qatar_final_prediction_top1.csv` | Qatar ranking after Top 1 strategy weighting. |
+| `result/qatar_final_prediction_top5.csv` | Qatar ranking after Top 5 strategy weighting. |
+| `result/qatar_final_prediction_top10.csv` | Qatar ranking after Top 10 strategy weighting. |
+| `result/qatar_final_prediction_balanced.csv` | Qatar ranking after balanced strategy weighting. |
+| `result/qatar_prediction_comparison.csv` | Qatar prediction versus actual result comparison. |
+| `result/abu_dhabi_predict_menka.csv` | Abu Dhabi GP simulation output. |
+| `result/final_2025_championship_prediction.csv` | 2025 championship projection using Abu Dhabi prediction. |
+| `result/final_2025_championship_with_team_orders.csv` | Championship projection after the team-orders scenario. |
+| `result/historical_predictions.csv` | Historical validation predictions used by `F1MTKL.ipynb`. |
+| `result/historical_predictions/all_historical_predictions.csv` | Per-race historical prediction rollup. |
+| `result/optimal_fusion_weights.csv` | Optimized strategy weights from historical validation. |
+| `result/driver_strategy_comparison.csv` | Driver-level comparison across Qatar strategy variants. |
+| `result/strategy_summary.csv` | Summary metrics for Qatar strategy variants. |
+
+## Figure Artifacts
+
+| File | Description |
+| --- | --- |
+| `assets/f1_data_exploration.png` | Data exploration summary chart. |
+| `assets/team_tiers.png` | Constructor tier prior visualization. |
+| `assets/qatar_position_distribution.png` | Qatar predicted finishing-position distribution. |
+| `assets/abu_dhabi_position_distribution.png` | Abu Dhabi predicted finishing-position distribution. |
+| `assets/qatar_prediction_evaluation.png` | Qatar prediction evaluation chart. |
+| `assets/strategy_comparison.png` | Strategy comparison chart from `F1MTKL.ipynb`. |
 
 ## How to Run
 
@@ -226,6 +303,7 @@ Run notebooks from the project root so relative paths resolve correctly.
 Install dependencies:
 
 ```bash
+conda activate base
 pip install fastf1 pandas numpy scipy matplotlib seaborn pymc arviz scikit-learn tqdm joblib jupyter
 ```
 
@@ -245,6 +323,8 @@ Recommended order:
 6. `F1MTKL.ipynb`
 
 If you only want to review the completed work, start with `F1ModelExplain.ipynb` and use the saved trace in `model/f1_trace.nc`.
+
+Generated FastF1 cache files are written to `data/f1_cache/` and ignored by git.
 
 ## What I Would Improve Next
 

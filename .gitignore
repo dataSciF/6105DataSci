@@ -1,3 +1,5 @@
 f1_cache/
+data/f1_cache/
 .DS_Store
+.ipynb_checkpoints/
 f1_trace.nc
